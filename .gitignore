@@ -1,0 +1,11 @@
+/android/
+
+.godot/
+.editorconfig
+.gitattributes
+.idea/
+
+*.import
+*.tmp
+
+CLAUDE.md
