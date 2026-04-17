@@ -4,6 +4,7 @@
 .editorconfig
 .gitattributes
 .idea/
+.devlog
 
 *.import
 *.tmp

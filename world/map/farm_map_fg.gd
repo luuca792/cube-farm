@@ -3,6 +3,7 @@ class_name FarmMapFG
 
 @onready var farm_map_crops: TileMapLayer = $"../FarmMapCrops"
 var tile_map_helper: TileMapHelper
+var region_tile_registry := RegionTileRegistry.new()
 
 signal crop_planted(map_pos: Vector2i, seed_type: String)
 
@@ -18,13 +19,8 @@ func _handle_tile_click(global_pos: Vector2) -> void:
 
 func _apply_tile_logic(map_pos: Vector2i, atlas_coords: Vector2i, source_id: int) -> void:
 	if (source_id == TilesDictionary.SOIL_TILE_SOURCE_ID):
-		if (TilesDictionary.DIRT_TILES.has(atlas_coords)):
+		if (region_tile_registry.get_variants("soil").has(atlas_coords)):
 			_on_click_dirt(map_pos)
 
 func _on_click_dirt(map_pos: Vector2i) -> void:
-	crop_planted.emit(map_pos, "wheat")
-	#_plant_seed(map_pos, "wheat")
-
-func _plant_seed(map_pos: Vector2i, seed_type: String) -> void:
-	if (seed_type == "wheat"):
-		FarmManager.plant_crop("wheat", map_pos)
+	crop_planted.emit(map_pos, "carrot")
