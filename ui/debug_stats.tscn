@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://br8thj6slb1g0"]
+
+[ext_resource type="Script" uid="uid://cqnwgr4ye4vq" path="res://ui/debug_stats.gd" id="1_kbf8f"]
+
+[node name="Panel" type="Panel" unique_id=1916153245]
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_top = -48.0
+offset_right = 96.0
+grow_vertical = 0
+script = ExtResource("1_kbf8f")
+
+[node name="Label" type="Label" parent="." unique_id=2097946540]
+layout_mode = 0
+offset_right = 96.0
+offset_bottom = 48.0
+theme_override_font_sizes/font_size = 5
