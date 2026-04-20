@@ -3,6 +3,7 @@
 [ext_resource type="Script" uid="uid://542ur7pxusen" path="res://scenes/main.gd" id="1_tefeu"]
 [ext_resource type="Script" uid="uid://dv3sdumfqjo7y" path="res://world/map/farm_map_fg.gd" id="2_sugp2"]
 [ext_resource type="TileSet" uid="uid://c8ofrkybrmldh" path="res://world/tilesets/tileset.tres" id="2_tefeu"]
+[ext_resource type="PackedScene" uid="uid://br8thj6slb1g0" path="res://ui/debug_stats.tscn" id="6_o6xl0"]
 [ext_resource type="PackedScene" uid="uid://cchen0yi5evyr" path="res://ui/inventory/slot_ui.tscn" id="6_tefeu"]
 [ext_resource type="Script" uid="uid://caj3m3q1yspil" path="res://world/map/farm_map_crops.gd" id="6_tipki"]
 
@@ -37,7 +38,7 @@ offset_right = 77.0
 offset_bottom = 96.0
 theme_override_constants/separation = 2
 
-[node name="Panel" parent="CanvasLayer/HotBarSlots" unique_id=1697744273 instance=ExtResource("6_tefeu")]
+[node name="Panel1" parent="CanvasLayer/HotBarSlots" unique_id=1697744273 instance=ExtResource("6_tefeu")]
 layout_mode = 2
 size_flags_horizontal = 4
 size_flags_vertical = 4
@@ -71,3 +72,9 @@ layout_mode = 2
 size_flags_horizontal = 4
 size_flags_vertical = 4
 slot_index = 5
+
+[node name="DebugPanel" parent="." unique_id=1916153245 instance=ExtResource("6_o6xl0")]
+offset_left = -216.0
+offset_top = -184.0
+offset_right = -120.0
+offset_bottom = -136.0

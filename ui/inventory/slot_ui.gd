@@ -1,24 +1,27 @@
-# slot_ui.gd
 extends Panel
+class_name SlotUI
 
 @onready var icon: TextureRect = $MarginContainer/TextureRect
 @onready var quantity_label: Label = $Label
 
 @export var slot_index: int = 0
 
-func _ready() -> void:
-	InventoryManager.slot_updated.connect(_on_slot_updated)
-	InventoryManager.selection_changed.connect(_on_selection_changed)
+func _process(delta: float) -> void:
 	refresh()
+	
+func _gui_input(event: InputEvent) -> void:
+	if event.is_action_pressed("interact"):
+		EventBus.inventory_slot_clicked.emit(slot_index)
 
 func _on_slot_updated(index: int) -> void:
 	if index == slot_index:
 		refresh()
 
-func _on_selection_changed(index: int) -> void:
-	if index == slot_index:
-		# visual highlight logic here, eg. modulate
-		pass
+#func _on_selection_changed(index: int) -> void:
+	#InventoryManager.select_slot(index)
+	#if index == slot_index:
+		## visual highlight logic here, eg. modulate
+		#pass
 
 func refresh() -> void:
 	var slot = InventoryManager.slots[slot_index]

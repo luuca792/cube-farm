@@ -2,8 +2,12 @@ extends Node
 
 var items: Dictionary = {}
 
+
+const CROPS = [0,1]
+
 func _ready() -> void:
 	_register(preload("res://items/resources/wheat_seed.tres"))
+	_register(preload("res://items/resources/carrot_seed.tres"))
 
 func _register(item: ItemData) -> void:
 	items[item.id] = item
