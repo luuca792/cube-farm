@@ -1,11 +1,6 @@
 [gd_scene format=3 uid="uid://cchen0yi5evyr"]
 
 [ext_resource type="Script" uid="uid://ocxkci6t2gg2" path="res://ui/inventory/slot_ui.gd" id="1_nfd3l"]
-[ext_resource type="Texture2D" uid="uid://bp3v3v384xqdw" path="res://assets/icons/items/crops.png" id="2_vlebx"]
-
-[sub_resource type="AtlasTexture" id="AtlasTexture_wclmh"]
-atlas = ExtResource("2_vlebx")
-region = Rect2(32, 176, 16, 16)
 
 [sub_resource type="SystemFont" id="SystemFont_nfd3l"]
 subpixel_positioning = 0
@@ -30,7 +25,6 @@ theme_override_constants/margin_bottom = 2
 
 [node name="TextureRect" type="TextureRect" parent="MarginContainer" unique_id=1917055028]
 layout_mode = 2
-texture = SubResource("AtlasTexture_wclmh")
 expand_mode = 2
 stretch_mode = 5
 
