@@ -1,56 +1,28 @@
 extends Node
 
 var slots: Array[InventorySlot]
-var selected_index: int = 0
+var selected_slot: InventorySlot
 
-func _ready() -> void:
-	EventBus.inventory_slot_clicked.connect(_set_select_slot)
-	# Init inventory slots
-	for i in Setting.INVENTORY_SIZE:
-		slots.append(InventorySlot.new())
-
-func _set_select_slot(index: int) -> void:
-	if index < 0 or index >= Setting.INVENTORY_SIZE:
-		return
-	selected_index = index
-
-func get_selected_slot() -> InventorySlot:
-	return slots[selected_index]
-	
-func get_selected_index() -> int:
-	return selected_index
-
-func get_selected_item() -> ItemData:
-	return slots[selected_index].item
-	
-func get_selected_item_quantity() -> int:
-	return slots[selected_index].quantity
+#func _ready() -> void:
+	## Init inventory slots
 
 func add_item(item: ItemData, quantity: int) -> void:
-	for i in Setting.INVENTORY_SIZE:
-		if slots[i].item == item:
-			slots[i].quantity += quantity
-			#emit_signal("slot_updated", i)
-			return
-	for i in Setting.INVENTORY_SIZE:
-		if slots[i].item == null:
-			slots[i].item = item
-			slots[i].quantity = quantity
-			#emit_signal("slot_updated", i)
-			return
-	push_error("InventoryManager: inventory is full")
-	
-## Not used yet
+	if slots.has(item):
+		slots[item].quantity += quantity
+	else:
+		var new_slot = InventorySlot.new()
+		new_slot.item = item
+		new_slot.quantity = quantity
+		slots.append(new_slot)
 	
 func use_selected_item(quantity: int) -> void:
-	var slot := get_selected_slot()
-	if slot.item == null:
+	if selected_slot.item == null:
 		push_error("InventoryManager: selected slot is empty")
 		return
-	if quantity > slot.quantity:
+	if quantity > selected_slot.quantity:
 		push_error("InventoryManager: not enough items in slot")
 		return
-	slot.quantity -= quantity
-	if slot.quantity == 0:
-		slot.item = null
+	selected_slot.quantity -= quantity
+	if selected_slot.quantity == 0:
+		selected_slot.item = null
 	#emit_signal("slot_updated", selected_index)

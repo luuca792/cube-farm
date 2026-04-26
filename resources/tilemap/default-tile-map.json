@@ -1,0 +1,14236 @@
+[
+	{
+		"coords": {
+			"x": -15.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": -7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": -6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": -5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": -4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": -3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": -2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": -1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": 0.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": 1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": 2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": 3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": -7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": -6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": -5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": -4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": -3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": -2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": -1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": 0.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": 1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": 2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": 3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": -7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": -6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": -5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": -4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": -3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": -2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": -1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": 0.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": 1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": 2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": 3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": -7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": -6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": -5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": -4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": -3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": -2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": -1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": 0.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": 1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": 2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": 3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": -7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": -6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": -5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": -4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": -3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": -2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": -1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": 0.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": 1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": 2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": 3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": -6.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 3,
+					"atlas_y": 10,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": -5.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 3,
+					"atlas_y": 10,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": -4.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 7,
+					"atlas_y": 10,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": -3.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 3,
+					"atlas_y": 6,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": -2.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 7,
+					"atlas_y": 6,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": -1.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": 0.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": 1.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": 2.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": -6.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 3,
+					"atlas_y": 10,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": -5.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 3,
+					"atlas_y": 10,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": -4.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 7,
+					"atlas_y": 10,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": -3.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 3,
+					"atlas_y": 6,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": -2.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 7,
+					"atlas_y": 6,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": -1.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": 0.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": 1.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": 2.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": -6.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 3,
+					"atlas_y": 10,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": -5.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 3,
+					"atlas_y": 10,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": -4.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 7,
+					"atlas_y": 10,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": -3.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 3,
+					"atlas_y": 6,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": -2.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 7,
+					"atlas_y": 6,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": -1.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": 0.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": 1.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": 2.0
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": -7.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": -6.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": -5.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": -3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": -2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": -1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": 0.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": 1.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": 2.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": 3.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": -7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": -6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": -5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": -4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": -3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": -2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": -1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": 0.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": 1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": 2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": 3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": -7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": -6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": -5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": -4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": -3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": -2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": -1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": 0.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": 1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": 2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": 3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": -7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": -6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": -5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": -4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": -3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": -2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": -1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": 0.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": 1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": 2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": 3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": -7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": -6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": -5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": -4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": -3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": -2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": -1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": 0.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": 1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": 2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": 3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": -7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": -6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": -5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": -4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": -3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": -2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": -1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": 0.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": 1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": 2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": 3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": -7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": -6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": -5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": -4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": -3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": -2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": -1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": 0.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": 1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": 2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": 3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": -7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": -6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": -5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": -4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": -3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": -2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": -1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": 0.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": 1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": 2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": 3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": 10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 19,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": 3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": 2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": -7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": -6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": -5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": -4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": -3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": -2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": -1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": 0.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": 1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -16.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -15.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -14.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -13.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -12.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -11.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -6.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -5.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -4.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -3.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -2.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -1.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 0.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 1.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 2.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 3.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 4.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 5.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 6.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 7.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 8.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 9.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 10.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 11.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 12.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 13.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 14.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 15.0,
+			"y": -10.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 10,
+					"atlas_y": 16,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": -9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": -8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": -7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": -6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": -5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": -4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": -3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": -2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": -1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": 0.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": 1.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": 2.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": 3.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": 4.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": 5.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": 6.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": 7.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": 8.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": 16.0,
+			"y": 9.0
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10.0,
+			"y": -4.0
+		},
+		"group": "soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 9,
+					"source_id": 1
+				}
+			}
+		]
+	}
+]

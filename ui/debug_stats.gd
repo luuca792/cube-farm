@@ -6,8 +6,16 @@ func _process(delta: float) -> void:
 	_refresh()
 
 func _refresh() -> void:
-	var item := InventoryManager.get_selected_item()
+	var selected_slot := InventoryManager.selected_slot
+	var slots := InventoryManager.slots
+	
 	var text = ""
-	text += "Slot: %d\n" % InventoryManager.get_selected_index()
-	text += "Item: %s\n" % item.item_name if item != null else ""
+	text += "Selected item: "
+	text += "%s" % selected_slot.item.item_name if selected_slot != null else ""
+	
+	text += "\nInventory:"
+	for slot in InventoryManager.slots:
+		text += "\n- %s" % slot.item.item_name
+		text += " : %d" % slot.quantity
+	
 	label.text = text

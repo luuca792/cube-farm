@@ -11,7 +11,7 @@ class_name TileLoader
 #		]
 # }
 ##	Load tiles in horizontal line
-func load_strip(source_id: int, from_y: int, count: int) -> Dictionary:
+static func load_strip(source_id: int, from_y: int, count: int) -> Dictionary:
 	var node := { "source_id": source_id, "count": count }
 	var tiles = {}
 	for i in count:
@@ -21,19 +21,18 @@ func load_strip(source_id: int, from_y: int, count: int) -> Dictionary:
 
 #	{
 #		"source_id": int,
-#		"count": int,
-#		"variants": [
+#		"tiles": [
 #			Vector2i(0,0),
 #			Vector2i(1,0),
 #			Vector2i(2,0)
 #		]
 # }
 ##	Load tiles in grid
-func load_grid(source_id: int, from: Vector2i, to: Vector2i) -> Dictionary:
+static func load_grid(source_id: int, from: Vector2i, to: Vector2i) -> Dictionary:
 	var node := { "source_id": source_id }
 	var variants := []
 	for y in range(from.y, to.y + 1):
 		for x in range(from.x, to.x + 1):
 			variants.append(Vector2i(x, y))
-	node["variants"] = variants
+	node["tiles"] = variants
 	return node
