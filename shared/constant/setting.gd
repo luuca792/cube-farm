@@ -1,3 +1,3 @@
-class_name Setting
+class_name SettingConstant
 
-const INVENTORY_SIZE = 6
+const TILE_SIZE = 16

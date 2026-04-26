@@ -3,7 +3,7 @@ class_name TileSlotData
 
 var group: String
 var layers: Array[TileLayerData]
-var coords: Vector2
+var coords: Vector2i
 
 func to_dict() -> Dictionary:
 	return {

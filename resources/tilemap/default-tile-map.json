@@ -1,8 +1,8 @@
 [
 	{
 		"coords": {
-			"x": -15.0,
-			"y": -8.0
+			"x": -15,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -18,8 +18,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": -7.0
+			"x": -15,
+			"y": -7
 		},
 		"group": "environment",
 		"layers": [
@@ -35,8 +35,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": -6.0
+			"x": -15,
+			"y": -6
 		},
 		"group": "environment",
 		"layers": [
@@ -52,8 +52,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": -5.0
+			"x": -15,
+			"y": -5
 		},
 		"group": "environment",
 		"layers": [
@@ -69,8 +69,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": -4.0
+			"x": -15,
+			"y": -4
 		},
 		"group": "environment",
 		"layers": [
@@ -86,8 +86,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": -3.0
+			"x": -15,
+			"y": -3
 		},
 		"group": "environment",
 		"layers": [
@@ -103,8 +103,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": -2.0
+			"x": -15,
+			"y": -2
 		},
 		"group": "environment",
 		"layers": [
@@ -120,8 +120,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": -1.0
+			"x": -15,
+			"y": -1
 		},
 		"group": "environment",
 		"layers": [
@@ -137,8 +137,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": 0.0
+			"x": -15,
+			"y": 0
 		},
 		"group": "environment",
 		"layers": [
@@ -154,8 +154,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": 1.0
+			"x": -15,
+			"y": 1
 		},
 		"group": "environment",
 		"layers": [
@@ -171,8 +171,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": 2.0
+			"x": -15,
+			"y": 2
 		},
 		"group": "environment",
 		"layers": [
@@ -188,8 +188,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": 3.0
+			"x": -15,
+			"y": 3
 		},
 		"group": "environment",
 		"layers": [
@@ -205,8 +205,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": 4.0
+			"x": -15,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -222,8 +222,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": 5.0
+			"x": -15,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -239,8 +239,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": 6.0
+			"x": -15,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -256,8 +256,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": 7.0
+			"x": -15,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -273,8 +273,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": 8.0
+			"x": -15,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -290,8 +290,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": -8.0
+			"x": -14,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -307,8 +307,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": -7.0
+			"x": -14,
+			"y": -7
 		},
 		"group": "environment",
 		"layers": [
@@ -324,8 +324,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": -6.0
+			"x": -14,
+			"y": -6
 		},
 		"group": "environment",
 		"layers": [
@@ -341,8 +341,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": -5.0
+			"x": -14,
+			"y": -5
 		},
 		"group": "environment",
 		"layers": [
@@ -358,8 +358,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": -4.0
+			"x": -14,
+			"y": -4
 		},
 		"group": "environment",
 		"layers": [
@@ -375,8 +375,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": -3.0
+			"x": -14,
+			"y": -3
 		},
 		"group": "environment",
 		"layers": [
@@ -392,8 +392,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": -2.0
+			"x": -14,
+			"y": -2
 		},
 		"group": "environment",
 		"layers": [
@@ -409,8 +409,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": -1.0
+			"x": -14,
+			"y": -1
 		},
 		"group": "environment",
 		"layers": [
@@ -426,8 +426,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": 0.0
+			"x": -14,
+			"y": 0
 		},
 		"group": "environment",
 		"layers": [
@@ -443,8 +443,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": 1.0
+			"x": -14,
+			"y": 1
 		},
 		"group": "environment",
 		"layers": [
@@ -460,8 +460,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": 2.0
+			"x": -14,
+			"y": 2
 		},
 		"group": "environment",
 		"layers": [
@@ -477,8 +477,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": 3.0
+			"x": -14,
+			"y": 3
 		},
 		"group": "environment",
 		"layers": [
@@ -494,8 +494,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": 4.0
+			"x": -14,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -511,8 +511,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": 5.0
+			"x": -14,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -528,8 +528,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": 6.0
+			"x": -14,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -545,8 +545,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": 7.0
+			"x": -14,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -562,8 +562,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": 8.0
+			"x": -14,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -579,8 +579,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": -8.0
+			"x": -13,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -596,8 +596,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": -7.0
+			"x": -13,
+			"y": -7
 		},
 		"group": "environment",
 		"layers": [
@@ -613,8 +613,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": -6.0
+			"x": -13,
+			"y": -6
 		},
 		"group": "environment",
 		"layers": [
@@ -630,8 +630,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": -5.0
+			"x": -13,
+			"y": -5
 		},
 		"group": "environment",
 		"layers": [
@@ -647,8 +647,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": -4.0
+			"x": -13,
+			"y": -4
 		},
 		"group": "environment",
 		"layers": [
@@ -664,8 +664,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": -3.0
+			"x": -13,
+			"y": -3
 		},
 		"group": "environment",
 		"layers": [
@@ -681,8 +681,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": -2.0
+			"x": -13,
+			"y": -2
 		},
 		"group": "environment",
 		"layers": [
@@ -698,8 +698,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": -1.0
+			"x": -13,
+			"y": -1
 		},
 		"group": "environment",
 		"layers": [
@@ -715,8 +715,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": 0.0
+			"x": -13,
+			"y": 0
 		},
 		"group": "environment",
 		"layers": [
@@ -732,8 +732,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": 1.0
+			"x": -13,
+			"y": 1
 		},
 		"group": "environment",
 		"layers": [
@@ -749,8 +749,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": 2.0
+			"x": -13,
+			"y": 2
 		},
 		"group": "environment",
 		"layers": [
@@ -766,8 +766,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": 3.0
+			"x": -13,
+			"y": 3
 		},
 		"group": "environment",
 		"layers": [
@@ -783,8 +783,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": 4.0
+			"x": -13,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -800,8 +800,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": 5.0
+			"x": -13,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -817,8 +817,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": 6.0
+			"x": -13,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -834,8 +834,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": 7.0
+			"x": -13,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -851,8 +851,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": 8.0
+			"x": -13,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -868,8 +868,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": -8.0
+			"x": -12,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -885,8 +885,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": -7.0
+			"x": -12,
+			"y": -7
 		},
 		"group": "environment",
 		"layers": [
@@ -902,8 +902,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": -6.0
+			"x": -12,
+			"y": -6
 		},
 		"group": "environment",
 		"layers": [
@@ -919,8 +919,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": -5.0
+			"x": -12,
+			"y": -5
 		},
 		"group": "environment",
 		"layers": [
@@ -936,8 +936,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": -4.0
+			"x": -12,
+			"y": -4
 		},
 		"group": "environment",
 		"layers": [
@@ -953,8 +953,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": -3.0
+			"x": -12,
+			"y": -3
 		},
 		"group": "environment",
 		"layers": [
@@ -970,8 +970,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": -2.0
+			"x": -12,
+			"y": -2
 		},
 		"group": "environment",
 		"layers": [
@@ -987,8 +987,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": -1.0
+			"x": -12,
+			"y": -1
 		},
 		"group": "environment",
 		"layers": [
@@ -1004,8 +1004,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": 0.0
+			"x": -12,
+			"y": 0
 		},
 		"group": "environment",
 		"layers": [
@@ -1021,8 +1021,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": 1.0
+			"x": -12,
+			"y": 1
 		},
 		"group": "environment",
 		"layers": [
@@ -1038,8 +1038,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": 2.0
+			"x": -12,
+			"y": 2
 		},
 		"group": "environment",
 		"layers": [
@@ -1055,8 +1055,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": 3.0
+			"x": -12,
+			"y": 3
 		},
 		"group": "environment",
 		"layers": [
@@ -1072,8 +1072,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": 4.0
+			"x": -12,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -1089,8 +1089,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": 5.0
+			"x": -12,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -1106,8 +1106,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": 6.0
+			"x": -12,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -1123,8 +1123,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": 7.0
+			"x": -12,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -1140,8 +1140,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": 8.0
+			"x": -12,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -1157,8 +1157,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": -8.0
+			"x": -11,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -1174,8 +1174,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": -7.0
+			"x": -11,
+			"y": -7
 		},
 		"group": "environment",
 		"layers": [
@@ -1191,8 +1191,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": -6.0
+			"x": -11,
+			"y": -6
 		},
 		"group": "environment",
 		"layers": [
@@ -1208,8 +1208,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": -5.0
+			"x": -11,
+			"y": -5
 		},
 		"group": "environment",
 		"layers": [
@@ -1225,8 +1225,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": -4.0
+			"x": -11,
+			"y": -4
 		},
 		"group": "environment",
 		"layers": [
@@ -1242,8 +1242,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": -3.0
+			"x": -11,
+			"y": -3
 		},
 		"group": "environment",
 		"layers": [
@@ -1259,8 +1259,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": -2.0
+			"x": -11,
+			"y": -2
 		},
 		"group": "environment",
 		"layers": [
@@ -1276,8 +1276,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": -1.0
+			"x": -11,
+			"y": -1
 		},
 		"group": "environment",
 		"layers": [
@@ -1293,8 +1293,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": 0.0
+			"x": -11,
+			"y": 0
 		},
 		"group": "environment",
 		"layers": [
@@ -1310,8 +1310,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": 1.0
+			"x": -11,
+			"y": 1
 		},
 		"group": "environment",
 		"layers": [
@@ -1327,8 +1327,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": 2.0
+			"x": -11,
+			"y": 2
 		},
 		"group": "environment",
 		"layers": [
@@ -1344,8 +1344,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": 3.0
+			"x": -11,
+			"y": 3
 		},
 		"group": "environment",
 		"layers": [
@@ -1361,8 +1361,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": 4.0
+			"x": -11,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -1378,8 +1378,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": 5.0
+			"x": -11,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -1395,8 +1395,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": 6.0
+			"x": -11,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -1412,8 +1412,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": 7.0
+			"x": -11,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -1429,8 +1429,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": 8.0
+			"x": -11,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -1446,8 +1446,8 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": -8.0
+			"x": -10,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -1463,10 +1463,10 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": -7.0
+			"x": -10,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -1488,10 +1488,10 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": -6.0
+			"x": -10,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -1513,10 +1513,10 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": -5.0
+			"x": -10,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -1538,10 +1538,10 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": -3.0
+			"x": -10,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -1563,10 +1563,10 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": -2.0
+			"x": -10,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -1588,10 +1588,10 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": -1.0
+			"x": -10,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -1613,10 +1613,10 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": 0.0
+			"x": -10,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -1638,10 +1638,10 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": 1.0
+			"x": -10,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -1663,10 +1663,10 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": 2.0
+			"x": -10,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -1688,10 +1688,10 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": 3.0
+			"x": -10,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -1713,8 +1713,8 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": 4.0
+			"x": -10,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -1730,8 +1730,8 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": 5.0
+			"x": -10,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -1747,8 +1747,8 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": 6.0
+			"x": -10,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -1764,8 +1764,8 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": 7.0
+			"x": -10,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -1781,8 +1781,8 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": 8.0
+			"x": -10,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -1798,8 +1798,8 @@
 	},
 	{
 		"coords": {
-			"x": -9.0,
-			"y": -8.0
+			"x": -9,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -1815,10 +1815,10 @@
 	},
 	{
 		"coords": {
-			"x": -9.0,
-			"y": -7.0
+			"x": -9,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -1840,10 +1840,10 @@
 	},
 	{
 		"coords": {
-			"x": -9.0,
-			"y": -6.0
+			"x": -9,
+			"y": -6
 		},
-		"group": "watered_soil",
+		"group": "growing_crop",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -1872,8 +1872,8 @@
 			{
 				"layer_name": "crop",
 				"tile": {
-					"atlas_x": 3,
-					"atlas_y": 10,
+					"atlas_x": 5,
+					"atlas_y": 2,
 					"source_id": 0
 				}
 			}
@@ -1881,10 +1881,10 @@
 	},
 	{
 		"coords": {
-			"x": -9.0,
-			"y": -5.0
+			"x": -9,
+			"y": -5
 		},
-		"group": "watered_soil",
+		"group": "growing_crop",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -1913,8 +1913,8 @@
 			{
 				"layer_name": "crop",
 				"tile": {
-					"atlas_x": 3,
-					"atlas_y": 10,
+					"atlas_x": 6,
+					"atlas_y": 7,
 					"source_id": 0
 				}
 			}
@@ -1922,10 +1922,10 @@
 	},
 	{
 		"coords": {
-			"x": -9.0,
-			"y": -4.0
+			"x": -9,
+			"y": -4
 		},
-		"group": "watered_soil",
+		"group": "growing_crop",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -1954,8 +1954,8 @@
 			{
 				"layer_name": "crop",
 				"tile": {
-					"atlas_x": 7,
-					"atlas_y": 10,
+					"atlas_x": 5,
+					"atlas_y": 4,
 					"source_id": 0
 				}
 			}
@@ -1963,10 +1963,10 @@
 	},
 	{
 		"coords": {
-			"x": -9.0,
-			"y": -3.0
+			"x": -9,
+			"y": -3
 		},
-		"group": "watered_soil",
+		"group": "growing_crop",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -1995,7 +1995,48 @@
 			{
 				"layer_name": "crop",
 				"tile": {
-					"atlas_x": 3,
+					"atlas_x": 5,
+					"atlas_y": 5,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": -2
+		},
+		"group": "growing_crop",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 4,
 					"atlas_y": 6,
 					"source_id": 0
 				}
@@ -2004,10 +2045,10 @@
 	},
 	{
 		"coords": {
-			"x": -9.0,
-			"y": -2.0
+			"x": -9,
+			"y": -1
 		},
-		"group": "watered_soil",
+		"group": "growing_crop",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -2036,7 +2077,471 @@
 			{
 				"layer_name": "crop",
 				"tile": {
-					"atlas_x": 7,
+					"atlas_x": 5,
+					"atlas_y": 1,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": 0
+		},
+		"group": "growing_crop",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 5,
+					"atlas_y": 0,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": 1
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": 2
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": 3
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": 4
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": 5
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": 6
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": 7
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -9,
+			"y": 8
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": -8
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": -7
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": -6
+		},
+		"group": "growing_crop",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 5,
+					"atlas_y": 2,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": -5
+		},
+		"group": "growing_crop",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 6,
+					"atlas_y": 7,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": -4
+		},
+		"group": "growing_crop",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 5,
+					"atlas_y": 4,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": -3
+		},
+		"group": "growing_crop",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 5,
+					"atlas_y": 5,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": -2
+		},
+		"group": "growing_crop",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 4,
 					"atlas_y": 6,
 					"source_id": 0
 				}
@@ -2045,294 +2550,10 @@
 	},
 	{
 		"coords": {
-			"x": -9.0,
-			"y": -1.0
+			"x": -8,
+			"y": -1
 		},
-		"group": "watered_soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 2,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "state",
-				"tile": {
-					"atlas_x": 12,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -9.0,
-			"y": 0.0
-		},
-		"group": "watered_soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 2,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "state",
-				"tile": {
-					"atlas_x": 12,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -9.0,
-			"y": 1.0
-		},
-		"group": "watered_soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 2,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "state",
-				"tile": {
-					"atlas_x": 12,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -9.0,
-			"y": 2.0
-		},
-		"group": "watered_soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 2,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "state",
-				"tile": {
-					"atlas_x": 12,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -9.0,
-			"y": 3.0
-		},
-		"group": "soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 10,
-					"source_id": 1
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -9.0,
-			"y": 4.0
-		},
-		"group": "environment",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -9.0,
-			"y": 5.0
-		},
-		"group": "environment",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -9.0,
-			"y": 6.0
-		},
-		"group": "environment",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -9.0,
-			"y": 7.0
-		},
-		"group": "environment",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -9.0,
-			"y": 8.0
-		},
-		"group": "environment",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -8.0,
-			"y": -8.0
-		},
-		"group": "environment",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -8.0,
-			"y": -7.0
-		},
-		"group": "soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -8.0,
-			"y": -6.0
-		},
-		"group": "watered_soil",
+		"group": "growing_crop",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -2361,8 +2582,8 @@
 			{
 				"layer_name": "crop",
 				"tile": {
-					"atlas_x": 3,
-					"atlas_y": 10,
+					"atlas_x": 5,
+					"atlas_y": 1,
 					"source_id": 0
 				}
 			}
@@ -2370,10 +2591,10 @@
 	},
 	{
 		"coords": {
-			"x": -8.0,
-			"y": -5.0
+			"x": -8,
+			"y": 0
 		},
-		"group": "watered_soil",
+		"group": "growing_crop",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -2402,8 +2623,8 @@
 			{
 				"layer_name": "crop",
 				"tile": {
-					"atlas_x": 3,
-					"atlas_y": 10,
+					"atlas_x": 5,
+					"atlas_y": 0,
 					"source_id": 0
 				}
 			}
@@ -2411,10 +2632,228 @@
 	},
 	{
 		"coords": {
-			"x": -8.0,
-			"y": -4.0
+			"x": -8,
+			"y": 1
 		},
 		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": 2
+		},
+		"group": "watered_soil",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": 3
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 10,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": 4
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": 5
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": 6
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": 7
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -8,
+			"y": 8
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7,
+			"y": -8
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7,
+			"y": -7
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7,
+			"y": -6
+		},
+		"group": "growing_crop",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -2443,8 +2882,8 @@
 			{
 				"layer_name": "crop",
 				"tile": {
-					"atlas_x": 7,
-					"atlas_y": 10,
+					"atlas_x": 5,
+					"atlas_y": 2,
 					"source_id": 0
 				}
 			}
@@ -2452,10 +2891,10 @@
 	},
 	{
 		"coords": {
-			"x": -8.0,
-			"y": -3.0
+			"x": -7,
+			"y": -5
 		},
-		"group": "watered_soil",
+		"group": "growing_crop",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -2484,7 +2923,130 @@
 			{
 				"layer_name": "crop",
 				"tile": {
-					"atlas_x": 3,
+					"atlas_x": 6,
+					"atlas_y": 7,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7,
+			"y": -4
+		},
+		"group": "growing_crop",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 5,
+					"atlas_y": 4,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7,
+			"y": -3
+		},
+		"group": "growing_crop",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 5,
+					"atlas_y": 5,
+					"source_id": 0
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -7,
+			"y": -2
+		},
+		"group": "growing_crop",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			},
+			{
+				"layer_name": "foreground",
+				"tile": {
+					"atlas_x": 9,
+					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "crop",
+				"tile": {
+					"atlas_x": 4,
 					"atlas_y": 6,
 					"source_id": 0
 				}
@@ -2493,10 +3055,10 @@
 	},
 	{
 		"coords": {
-			"x": -8.0,
-			"y": -2.0
+			"x": -7,
+			"y": -1
 		},
-		"group": "watered_soil",
+		"group": "growing_crop",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -2525,8 +3087,8 @@
 			{
 				"layer_name": "crop",
 				"tile": {
-					"atlas_x": 7,
-					"atlas_y": 6,
+					"atlas_x": 5,
+					"atlas_y": 1,
 					"source_id": 0
 				}
 			}
@@ -2534,294 +3096,10 @@
 	},
 	{
 		"coords": {
-			"x": -8.0,
-			"y": -1.0
+			"x": -7,
+			"y": 0
 		},
-		"group": "watered_soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 2,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "state",
-				"tile": {
-					"atlas_x": 12,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -8.0,
-			"y": 0.0
-		},
-		"group": "watered_soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 2,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "state",
-				"tile": {
-					"atlas_x": 12,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -8.0,
-			"y": 1.0
-		},
-		"group": "watered_soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 2,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "state",
-				"tile": {
-					"atlas_x": 12,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -8.0,
-			"y": 2.0
-		},
-		"group": "watered_soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 2,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "state",
-				"tile": {
-					"atlas_x": 12,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -8.0,
-			"y": 3.0
-		},
-		"group": "soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 10,
-					"source_id": 1
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -8.0,
-			"y": 4.0
-		},
-		"group": "environment",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -8.0,
-			"y": 5.0
-		},
-		"group": "environment",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -8.0,
-			"y": 6.0
-		},
-		"group": "environment",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -8.0,
-			"y": 7.0
-		},
-		"group": "environment",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -8.0,
-			"y": 8.0
-		},
-		"group": "environment",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -7.0,
-			"y": -8.0
-		},
-		"group": "environment",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -7.0,
-			"y": -7.0
-		},
-		"group": "soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -7.0,
-			"y": -6.0
-		},
-		"group": "watered_soil",
+		"group": "growing_crop",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -2850,8 +3128,8 @@
 			{
 				"layer_name": "crop",
 				"tile": {
-					"atlas_x": 3,
-					"atlas_y": 10,
+					"atlas_x": 5,
+					"atlas_y": 0,
 					"source_id": 0
 				}
 			}
@@ -2859,172 +3137,8 @@
 	},
 	{
 		"coords": {
-			"x": -7.0,
-			"y": -5.0
-		},
-		"group": "watered_soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 2,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "state",
-				"tile": {
-					"atlas_x": 12,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "crop",
-				"tile": {
-					"atlas_x": 3,
-					"atlas_y": 10,
-					"source_id": 0
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -7.0,
-			"y": -4.0
-		},
-		"group": "watered_soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 2,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "state",
-				"tile": {
-					"atlas_x": 12,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "crop",
-				"tile": {
-					"atlas_x": 7,
-					"atlas_y": 10,
-					"source_id": 0
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -7.0,
-			"y": -3.0
-		},
-		"group": "watered_soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 2,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "state",
-				"tile": {
-					"atlas_x": 12,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "crop",
-				"tile": {
-					"atlas_x": 3,
-					"atlas_y": 6,
-					"source_id": 0
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -7.0,
-			"y": -2.0
-		},
-		"group": "watered_soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 2,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "state",
-				"tile": {
-					"atlas_x": 12,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "crop",
-				"tile": {
-					"atlas_x": 7,
-					"atlas_y": 6,
-					"source_id": 0
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -7.0,
-			"y": -1.0
+			"x": -7,
+			"y": 1
 		},
 		"group": "watered_soil",
 		"layers": [
@@ -3056,8 +3170,8 @@
 	},
 	{
 		"coords": {
-			"x": -7.0,
-			"y": 0.0
+			"x": -7,
+			"y": 2
 		},
 		"group": "watered_soil",
 		"layers": [
@@ -3089,76 +3203,10 @@
 	},
 	{
 		"coords": {
-			"x": -7.0,
-			"y": 1.0
+			"x": -7,
+			"y": 3
 		},
-		"group": "watered_soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 2,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "state",
-				"tile": {
-					"atlas_x": 12,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -7.0,
-			"y": 2.0
-		},
-		"group": "watered_soil",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			},
-			{
-				"layer_name": "foreground",
-				"tile": {
-					"atlas_x": 9,
-					"atlas_y": 2,
-					"source_id": 1
-				}
-			},
-			{
-				"layer_name": "state",
-				"tile": {
-					"atlas_x": 12,
-					"atlas_y": 8,
-					"source_id": 1
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -7.0,
-			"y": 3.0
-		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3180,8 +3228,8 @@
 	},
 	{
 		"coords": {
-			"x": -7.0,
-			"y": 4.0
+			"x": -7,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -3197,8 +3245,8 @@
 	},
 	{
 		"coords": {
-			"x": -7.0,
-			"y": 5.0
+			"x": -7,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -3214,8 +3262,8 @@
 	},
 	{
 		"coords": {
-			"x": -7.0,
-			"y": 6.0
+			"x": -7,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -3231,8 +3279,8 @@
 	},
 	{
 		"coords": {
-			"x": -7.0,
-			"y": 7.0
+			"x": -7,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -3248,8 +3296,8 @@
 	},
 	{
 		"coords": {
-			"x": -7.0,
-			"y": 8.0
+			"x": -7,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -3265,8 +3313,8 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": -8.0
+			"x": -6,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -3282,10 +3330,10 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": -7.0
+			"x": -6,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3307,10 +3355,10 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": -6.0
+			"x": -6,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3332,10 +3380,10 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": -5.0
+			"x": -6,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3357,10 +3405,10 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": -4.0
+			"x": -6,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3382,10 +3430,10 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": -3.0
+			"x": -6,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3407,10 +3455,10 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": -2.0
+			"x": -6,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3432,10 +3480,10 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": -1.0
+			"x": -6,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3457,10 +3505,10 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": 0.0
+			"x": -6,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3482,10 +3530,10 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": 1.0
+			"x": -6,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3507,10 +3555,10 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": 2.0
+			"x": -6,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3532,10 +3580,10 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": 3.0
+			"x": -6,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3557,8 +3605,8 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": 4.0
+			"x": -6,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -3574,8 +3622,8 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": 5.0
+			"x": -6,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -3591,8 +3639,8 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": 6.0
+			"x": -6,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -3608,8 +3656,8 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": 7.0
+			"x": -6,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -3625,8 +3673,8 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": 8.0
+			"x": -6,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -3642,8 +3690,8 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": -8.0
+			"x": -5,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -3659,10 +3707,10 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": -7.0
+			"x": -5,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3684,10 +3732,10 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": -6.0
+			"x": -5,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3709,10 +3757,10 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": -5.0
+			"x": -5,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3734,10 +3782,10 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": -4.0
+			"x": -5,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3759,10 +3807,10 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": -3.0
+			"x": -5,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3784,10 +3832,10 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": -2.0
+			"x": -5,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3809,10 +3857,10 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": -1.0
+			"x": -5,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3834,10 +3882,10 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": 0.0
+			"x": -5,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3859,10 +3907,10 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": 1.0
+			"x": -5,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3884,10 +3932,10 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": 2.0
+			"x": -5,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3909,10 +3957,10 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": 3.0
+			"x": -5,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -3934,8 +3982,8 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": 4.0
+			"x": -5,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -3951,8 +3999,8 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": 5.0
+			"x": -5,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -3968,8 +4016,8 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": 6.0
+			"x": -5,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -3985,8 +4033,8 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": 7.0
+			"x": -5,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -4002,8 +4050,8 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": 8.0
+			"x": -5,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -4019,8 +4067,8 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": -8.0
+			"x": -4,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -4036,10 +4084,10 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": -7.0
+			"x": -4,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4061,10 +4109,10 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": -6.0
+			"x": -4,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4086,10 +4134,10 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": -5.0
+			"x": -4,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4111,10 +4159,10 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": -4.0
+			"x": -4,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4136,10 +4184,10 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": -3.0
+			"x": -4,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4161,10 +4209,10 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": -2.0
+			"x": -4,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4186,10 +4234,10 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": -1.0
+			"x": -4,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4211,10 +4259,10 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": 0.0
+			"x": -4,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4236,10 +4284,10 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": 1.0
+			"x": -4,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4261,10 +4309,10 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": 2.0
+			"x": -4,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4286,10 +4334,10 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": 3.0
+			"x": -4,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4311,8 +4359,8 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": 4.0
+			"x": -4,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -4328,8 +4376,8 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": 5.0
+			"x": -4,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -4345,8 +4393,8 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": 6.0
+			"x": -4,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -4362,8 +4410,8 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": 7.0
+			"x": -4,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -4379,8 +4427,8 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": 8.0
+			"x": -4,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -4396,8 +4444,8 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": -8.0
+			"x": -3,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -4413,10 +4461,10 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": -7.0
+			"x": -3,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4438,10 +4486,10 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": -6.0
+			"x": -3,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4463,10 +4511,10 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": -5.0
+			"x": -3,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4488,10 +4536,10 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": -4.0
+			"x": -3,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4513,10 +4561,10 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": -3.0
+			"x": -3,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4538,10 +4586,10 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": -2.0
+			"x": -3,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4563,10 +4611,10 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": -1.0
+			"x": -3,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4588,10 +4636,10 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": 0.0
+			"x": -3,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4613,10 +4661,10 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": 1.0
+			"x": -3,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4638,10 +4686,10 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": 2.0
+			"x": -3,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4663,10 +4711,10 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": 3.0
+			"x": -3,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4688,8 +4736,8 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": 4.0
+			"x": -3,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -4705,8 +4753,8 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": 5.0
+			"x": -3,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -4722,8 +4770,8 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": 6.0
+			"x": -3,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -4739,8 +4787,8 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": 7.0
+			"x": -3,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -4756,8 +4804,8 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": 8.0
+			"x": -3,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -4773,8 +4821,8 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": -8.0
+			"x": -2,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -4790,10 +4838,10 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": -7.0
+			"x": -2,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4815,10 +4863,10 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": -6.0
+			"x": -2,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4840,10 +4888,10 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": -5.0
+			"x": -2,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4865,10 +4913,10 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": -4.0
+			"x": -2,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4890,10 +4938,10 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": -3.0
+			"x": -2,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4915,10 +4963,10 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": -2.0
+			"x": -2,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4940,10 +4988,10 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": -1.0
+			"x": -2,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4965,10 +5013,10 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": 0.0
+			"x": -2,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -4990,10 +5038,10 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": 1.0
+			"x": -2,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5015,10 +5063,10 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": 2.0
+			"x": -2,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5040,10 +5088,10 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": 3.0
+			"x": -2,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5065,8 +5113,8 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": 4.0
+			"x": -2,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -5082,8 +5130,8 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": 5.0
+			"x": -2,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -5099,8 +5147,8 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": 6.0
+			"x": -2,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -5116,8 +5164,8 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": 7.0
+			"x": -2,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -5133,8 +5181,8 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": 8.0
+			"x": -2,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -5150,8 +5198,8 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": -8.0
+			"x": -1,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -5167,10 +5215,10 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": -7.0
+			"x": -1,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5192,10 +5240,10 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": -6.0
+			"x": -1,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5217,10 +5265,10 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": -5.0
+			"x": -1,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5242,10 +5290,10 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": -4.0
+			"x": -1,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5267,10 +5315,10 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": -3.0
+			"x": -1,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5292,10 +5340,10 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": -2.0
+			"x": -1,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5317,10 +5365,10 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": -1.0
+			"x": -1,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5342,10 +5390,10 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": 0.0
+			"x": -1,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5367,10 +5415,10 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": 1.0
+			"x": -1,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5392,10 +5440,10 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": 2.0
+			"x": -1,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5417,10 +5465,10 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": 3.0
+			"x": -1,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5442,8 +5490,8 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": 4.0
+			"x": -1,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -5459,8 +5507,8 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": 5.0
+			"x": -1,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -5476,8 +5524,8 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": 6.0
+			"x": -1,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -5493,8 +5541,8 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": 7.0
+			"x": -1,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -5510,8 +5558,8 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": 8.0
+			"x": -1,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -5527,8 +5575,8 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": -8.0
+			"x": 0,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -5544,10 +5592,10 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": -7.0
+			"x": 0,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5569,10 +5617,10 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": -6.0
+			"x": 0,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5594,10 +5642,10 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": -5.0
+			"x": 0,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5619,10 +5667,10 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": -4.0
+			"x": 0,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5644,10 +5692,10 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": -3.0
+			"x": 0,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5669,10 +5717,10 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": -2.0
+			"x": 0,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5694,10 +5742,10 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": -1.0
+			"x": 0,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5719,10 +5767,10 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": 0.0
+			"x": 0,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5744,10 +5792,10 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": 1.0
+			"x": 0,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5769,10 +5817,10 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": 2.0
+			"x": 0,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5794,10 +5842,10 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": 3.0
+			"x": 0,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5819,8 +5867,8 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": 4.0
+			"x": 0,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -5836,8 +5884,8 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": 5.0
+			"x": 0,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -5853,8 +5901,8 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": 6.0
+			"x": 0,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -5870,8 +5918,8 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": 7.0
+			"x": 0,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -5887,8 +5935,8 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": 8.0
+			"x": 0,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -5904,8 +5952,8 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": -8.0
+			"x": 1,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -5921,10 +5969,10 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": -7.0
+			"x": 1,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5946,10 +5994,10 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": -6.0
+			"x": 1,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5971,10 +6019,10 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": -5.0
+			"x": 1,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -5996,10 +6044,10 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": -4.0
+			"x": 1,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6021,10 +6069,10 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": -3.0
+			"x": 1,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6046,10 +6094,10 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": -2.0
+			"x": 1,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6071,10 +6119,10 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": -1.0
+			"x": 1,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6096,10 +6144,10 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": 0.0
+			"x": 1,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6121,10 +6169,10 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": 1.0
+			"x": 1,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6146,10 +6194,10 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": 2.0
+			"x": 1,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6171,10 +6219,10 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": 3.0
+			"x": 1,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6196,8 +6244,8 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": 4.0
+			"x": 1,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -6213,8 +6261,8 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": 5.0
+			"x": 1,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -6230,8 +6278,8 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": 6.0
+			"x": 1,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -6247,8 +6295,8 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": 7.0
+			"x": 1,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -6264,8 +6312,8 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": 8.0
+			"x": 1,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -6281,8 +6329,8 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": -8.0
+			"x": 2,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -6298,10 +6346,10 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": -7.0
+			"x": 2,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6323,10 +6371,10 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": -6.0
+			"x": 2,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6348,10 +6396,10 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": -5.0
+			"x": 2,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6373,10 +6421,10 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": -4.0
+			"x": 2,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6398,10 +6446,10 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": -3.0
+			"x": 2,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6423,10 +6471,10 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": -2.0
+			"x": 2,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6448,10 +6496,10 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": -1.0
+			"x": 2,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6473,10 +6521,10 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": 0.0
+			"x": 2,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6498,10 +6546,10 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": 1.0
+			"x": 2,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6523,10 +6571,10 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": 2.0
+			"x": 2,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6548,10 +6596,10 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": 3.0
+			"x": 2,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6573,8 +6621,8 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": 4.0
+			"x": 2,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -6590,8 +6638,8 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": 5.0
+			"x": 2,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -6607,8 +6655,8 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": 6.0
+			"x": 2,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -6624,8 +6672,8 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": 7.0
+			"x": 2,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -6641,8 +6689,8 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": 8.0
+			"x": 2,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -6658,8 +6706,8 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": -8.0
+			"x": 3,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -6675,10 +6723,10 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": -7.0
+			"x": 3,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6700,10 +6748,10 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": -6.0
+			"x": 3,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6725,10 +6773,10 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": -5.0
+			"x": 3,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6750,10 +6798,10 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": -4.0
+			"x": 3,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6775,10 +6823,10 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": -3.0
+			"x": 3,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6800,10 +6848,10 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": -2.0
+			"x": 3,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6825,10 +6873,10 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": -1.0
+			"x": 3,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6850,10 +6898,10 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": 0.0
+			"x": 3,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6875,10 +6923,10 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": 1.0
+			"x": 3,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6900,10 +6948,10 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": 2.0
+			"x": 3,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6925,10 +6973,10 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": 3.0
+			"x": 3,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6950,8 +6998,8 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": 4.0
+			"x": 3,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -6967,8 +7015,8 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": 5.0
+			"x": 3,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -6984,8 +7032,8 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": 6.0
+			"x": 3,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -7001,8 +7049,8 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": 7.0
+			"x": 3,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -7018,8 +7066,8 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": 8.0
+			"x": 3,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -7035,8 +7083,8 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": -8.0
+			"x": 4,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -7052,10 +7100,10 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": -7.0
+			"x": 4,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7077,10 +7125,10 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": -6.0
+			"x": 4,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7102,10 +7150,10 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": -5.0
+			"x": 4,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7127,10 +7175,10 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": -4.0
+			"x": 4,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7152,10 +7200,10 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": -3.0
+			"x": 4,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7177,10 +7225,10 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": -2.0
+			"x": 4,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7202,10 +7250,10 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": -1.0
+			"x": 4,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7227,10 +7275,10 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": 0.0
+			"x": 4,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7252,10 +7300,10 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": 1.0
+			"x": 4,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7277,10 +7325,10 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": 2.0
+			"x": 4,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7302,10 +7350,10 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": 3.0
+			"x": 4,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7327,8 +7375,8 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": 4.0
+			"x": 4,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -7344,8 +7392,8 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": 5.0
+			"x": 4,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -7361,8 +7409,8 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": 6.0
+			"x": 4,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -7378,8 +7426,8 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": 7.0
+			"x": 4,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -7395,8 +7443,8 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": 8.0
+			"x": 4,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -7412,8 +7460,8 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": -8.0
+			"x": 5,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -7429,10 +7477,10 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": -7.0
+			"x": 5,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7454,10 +7502,10 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": -6.0
+			"x": 5,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7479,10 +7527,10 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": -5.0
+			"x": 5,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7504,10 +7552,10 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": -4.0
+			"x": 5,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7529,10 +7577,10 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": -3.0
+			"x": 5,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7554,10 +7602,10 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": -2.0
+			"x": 5,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7579,10 +7627,10 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": -1.0
+			"x": 5,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7604,10 +7652,10 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": 0.0
+			"x": 5,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7629,10 +7677,10 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": 1.0
+			"x": 5,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7654,10 +7702,10 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": 2.0
+			"x": 5,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7679,10 +7727,10 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": 3.0
+			"x": 5,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7704,8 +7752,8 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": 4.0
+			"x": 5,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -7721,8 +7769,8 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": 5.0
+			"x": 5,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -7738,8 +7786,8 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": 6.0
+			"x": 5,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -7755,8 +7803,8 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": 7.0
+			"x": 5,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -7772,8 +7820,8 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": 8.0
+			"x": 5,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -7789,8 +7837,8 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": -8.0
+			"x": 6,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -7806,10 +7854,10 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": -7.0
+			"x": 6,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7831,10 +7879,10 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": -6.0
+			"x": 6,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7856,10 +7904,10 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": -5.0
+			"x": 6,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7881,10 +7929,10 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": -4.0
+			"x": 6,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7906,10 +7954,10 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": -3.0
+			"x": 6,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7931,10 +7979,10 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": -2.0
+			"x": 6,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7956,10 +8004,10 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": -1.0
+			"x": 6,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7981,10 +8029,10 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": 0.0
+			"x": 6,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8006,10 +8054,10 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": 1.0
+			"x": 6,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8031,10 +8079,10 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": 2.0
+			"x": 6,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8056,10 +8104,10 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": 3.0
+			"x": 6,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8081,8 +8129,8 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": 4.0
+			"x": 6,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -8098,8 +8146,8 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": 5.0
+			"x": 6,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -8115,8 +8163,8 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": 6.0
+			"x": 6,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -8132,8 +8180,8 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": 7.0
+			"x": 6,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -8149,8 +8197,8 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": 8.0
+			"x": 6,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -8166,8 +8214,8 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": -8.0
+			"x": 7,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -8183,10 +8231,10 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": -7.0
+			"x": 7,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8208,10 +8256,10 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": -6.0
+			"x": 7,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8233,10 +8281,10 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": -5.0
+			"x": 7,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8258,10 +8306,10 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": -4.0
+			"x": 7,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8283,10 +8331,10 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": -3.0
+			"x": 7,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8308,10 +8356,10 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": -2.0
+			"x": 7,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8333,10 +8381,10 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": -1.0
+			"x": 7,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8358,10 +8406,10 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": 0.0
+			"x": 7,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8383,10 +8431,10 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": 1.0
+			"x": 7,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8408,10 +8456,10 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": 2.0
+			"x": 7,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8433,10 +8481,10 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": 3.0
+			"x": 7,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8458,8 +8506,8 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": 4.0
+			"x": 7,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -8475,8 +8523,8 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": 5.0
+			"x": 7,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -8492,8 +8540,8 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": 6.0
+			"x": 7,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -8509,8 +8557,8 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": 7.0
+			"x": 7,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -8526,8 +8574,8 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": 8.0
+			"x": 7,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -8543,8 +8591,8 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": -8.0
+			"x": 8,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -8560,10 +8608,10 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": -7.0
+			"x": 8,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8585,10 +8633,10 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": -6.0
+			"x": 8,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8610,10 +8658,10 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": -5.0
+			"x": 8,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8635,10 +8683,10 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": -4.0
+			"x": 8,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8660,10 +8708,10 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": -3.0
+			"x": 8,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8685,10 +8733,10 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": -2.0
+			"x": 8,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8710,10 +8758,10 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": -1.0
+			"x": 8,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8735,10 +8783,10 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": 0.0
+			"x": 8,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8760,10 +8808,10 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": 1.0
+			"x": 8,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8785,10 +8833,10 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": 2.0
+			"x": 8,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8810,10 +8858,10 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": 3.0
+			"x": 8,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8835,8 +8883,8 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": 4.0
+			"x": 8,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -8852,8 +8900,8 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": 5.0
+			"x": 8,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -8869,8 +8917,8 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": 6.0
+			"x": 8,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -8886,8 +8934,8 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": 7.0
+			"x": 8,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -8903,8 +8951,8 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": 8.0
+			"x": 8,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -8920,8 +8968,8 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": -8.0
+			"x": 9,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -8937,10 +8985,10 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": -7.0
+			"x": 9,
+			"y": -7
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8962,10 +9010,10 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": -6.0
+			"x": 9,
+			"y": -6
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -8987,10 +9035,10 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": -5.0
+			"x": 9,
+			"y": -5
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -9012,10 +9060,10 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": -4.0
+			"x": 9,
+			"y": -4
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -9037,10 +9085,10 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": -3.0
+			"x": 9,
+			"y": -3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -9062,10 +9110,10 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": -2.0
+			"x": 9,
+			"y": -2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -9087,10 +9135,10 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": -1.0
+			"x": 9,
+			"y": -1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -9112,10 +9160,10 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": 0.0
+			"x": 9,
+			"y": 0
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -9137,10 +9185,10 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": 1.0
+			"x": 9,
+			"y": 1
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -9162,10 +9210,10 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": 2.0
+			"x": 9,
+			"y": 2
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -9187,10 +9235,10 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": 3.0
+			"x": 9,
+			"y": 3
 		},
-		"group": "soil",
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -9212,8 +9260,8 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": 4.0
+			"x": 9,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -9229,8 +9277,8 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": 5.0
+			"x": 9,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -9246,8 +9294,8 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": 6.0
+			"x": 9,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -9263,8 +9311,8 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": 7.0
+			"x": 9,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -9280,8 +9328,8 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": 8.0
+			"x": 9,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -9297,8 +9345,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": -8.0
+			"x": 10,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -9314,8 +9362,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": -7.0
+			"x": 10,
+			"y": -7
 		},
 		"group": "environment",
 		"layers": [
@@ -9331,8 +9379,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": -6.0
+			"x": 10,
+			"y": -6
 		},
 		"group": "environment",
 		"layers": [
@@ -9348,8 +9396,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": -5.0
+			"x": 10,
+			"y": -5
 		},
 		"group": "environment",
 		"layers": [
@@ -9365,8 +9413,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": -4.0
+			"x": 10,
+			"y": -4
 		},
 		"group": "environment",
 		"layers": [
@@ -9382,8 +9430,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": -3.0
+			"x": 10,
+			"y": -3
 		},
 		"group": "environment",
 		"layers": [
@@ -9399,8 +9447,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": -2.0
+			"x": 10,
+			"y": -2
 		},
 		"group": "environment",
 		"layers": [
@@ -9416,8 +9464,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": -1.0
+			"x": 10,
+			"y": -1
 		},
 		"group": "environment",
 		"layers": [
@@ -9433,8 +9481,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": 0.0
+			"x": 10,
+			"y": 0
 		},
 		"group": "environment",
 		"layers": [
@@ -9450,8 +9498,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": 1.0
+			"x": 10,
+			"y": 1
 		},
 		"group": "environment",
 		"layers": [
@@ -9467,8 +9515,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": 2.0
+			"x": 10,
+			"y": 2
 		},
 		"group": "environment",
 		"layers": [
@@ -9484,8 +9532,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": 3.0
+			"x": 10,
+			"y": 3
 		},
 		"group": "environment",
 		"layers": [
@@ -9501,8 +9549,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": 4.0
+			"x": 10,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -9518,8 +9566,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": 5.0
+			"x": 10,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -9535,8 +9583,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": 6.0
+			"x": 10,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -9552,8 +9600,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": 7.0
+			"x": 10,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -9569,8 +9617,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": 8.0
+			"x": 10,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -9586,8 +9634,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": -8.0
+			"x": 11,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -9603,8 +9651,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": -7.0
+			"x": 11,
+			"y": -7
 		},
 		"group": "environment",
 		"layers": [
@@ -9620,8 +9668,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": -6.0
+			"x": 11,
+			"y": -6
 		},
 		"group": "environment",
 		"layers": [
@@ -9637,8 +9685,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": -5.0
+			"x": 11,
+			"y": -5
 		},
 		"group": "environment",
 		"layers": [
@@ -9654,8 +9702,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": -4.0
+			"x": 11,
+			"y": -4
 		},
 		"group": "environment",
 		"layers": [
@@ -9671,8 +9719,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": -3.0
+			"x": 11,
+			"y": -3
 		},
 		"group": "environment",
 		"layers": [
@@ -9688,8 +9736,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": -2.0
+			"x": 11,
+			"y": -2
 		},
 		"group": "environment",
 		"layers": [
@@ -9705,8 +9753,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": -1.0
+			"x": 11,
+			"y": -1
 		},
 		"group": "environment",
 		"layers": [
@@ -9722,8 +9770,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": 0.0
+			"x": 11,
+			"y": 0
 		},
 		"group": "environment",
 		"layers": [
@@ -9739,8 +9787,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": 1.0
+			"x": 11,
+			"y": 1
 		},
 		"group": "environment",
 		"layers": [
@@ -9756,8 +9804,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": 2.0
+			"x": 11,
+			"y": 2
 		},
 		"group": "environment",
 		"layers": [
@@ -9773,8 +9821,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": 3.0
+			"x": 11,
+			"y": 3
 		},
 		"group": "environment",
 		"layers": [
@@ -9790,8 +9838,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": 4.0
+			"x": 11,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -9807,8 +9855,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": 5.0
+			"x": 11,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -9824,8 +9872,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": 6.0
+			"x": 11,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -9841,8 +9889,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": 7.0
+			"x": 11,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -9858,8 +9906,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": 8.0
+			"x": 11,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -9875,8 +9923,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": -8.0
+			"x": 12,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -9892,8 +9940,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": -7.0
+			"x": 12,
+			"y": -7
 		},
 		"group": "environment",
 		"layers": [
@@ -9909,8 +9957,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": -6.0
+			"x": 12,
+			"y": -6
 		},
 		"group": "environment",
 		"layers": [
@@ -9926,8 +9974,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": -5.0
+			"x": 12,
+			"y": -5
 		},
 		"group": "environment",
 		"layers": [
@@ -9943,8 +9991,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": -4.0
+			"x": 12,
+			"y": -4
 		},
 		"group": "environment",
 		"layers": [
@@ -9960,8 +10008,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": -3.0
+			"x": 12,
+			"y": -3
 		},
 		"group": "environment",
 		"layers": [
@@ -9977,8 +10025,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": -2.0
+			"x": 12,
+			"y": -2
 		},
 		"group": "environment",
 		"layers": [
@@ -9994,8 +10042,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": -1.0
+			"x": 12,
+			"y": -1
 		},
 		"group": "environment",
 		"layers": [
@@ -10011,8 +10059,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": 0.0
+			"x": 12,
+			"y": 0
 		},
 		"group": "environment",
 		"layers": [
@@ -10028,8 +10076,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": 1.0
+			"x": 12,
+			"y": 1
 		},
 		"group": "environment",
 		"layers": [
@@ -10045,8 +10093,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": 2.0
+			"x": 12,
+			"y": 2
 		},
 		"group": "environment",
 		"layers": [
@@ -10062,8 +10110,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": 3.0
+			"x": 12,
+			"y": 3
 		},
 		"group": "environment",
 		"layers": [
@@ -10079,8 +10127,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": 4.0
+			"x": 12,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -10096,8 +10144,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": 5.0
+			"x": 12,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -10113,8 +10161,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": 6.0
+			"x": 12,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -10130,8 +10178,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": 7.0
+			"x": 12,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -10147,8 +10195,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": 8.0
+			"x": 12,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -10164,8 +10212,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": -8.0
+			"x": 13,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -10181,8 +10229,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": -7.0
+			"x": 13,
+			"y": -7
 		},
 		"group": "environment",
 		"layers": [
@@ -10198,8 +10246,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": -6.0
+			"x": 13,
+			"y": -6
 		},
 		"group": "environment",
 		"layers": [
@@ -10215,8 +10263,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": -5.0
+			"x": 13,
+			"y": -5
 		},
 		"group": "environment",
 		"layers": [
@@ -10232,8 +10280,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": -4.0
+			"x": 13,
+			"y": -4
 		},
 		"group": "environment",
 		"layers": [
@@ -10249,8 +10297,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": -3.0
+			"x": 13,
+			"y": -3
 		},
 		"group": "environment",
 		"layers": [
@@ -10266,8 +10314,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": -2.0
+			"x": 13,
+			"y": -2
 		},
 		"group": "environment",
 		"layers": [
@@ -10283,8 +10331,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": -1.0
+			"x": 13,
+			"y": -1
 		},
 		"group": "environment",
 		"layers": [
@@ -10300,8 +10348,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": 0.0
+			"x": 13,
+			"y": 0
 		},
 		"group": "environment",
 		"layers": [
@@ -10317,8 +10365,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": 1.0
+			"x": 13,
+			"y": 1
 		},
 		"group": "environment",
 		"layers": [
@@ -10334,8 +10382,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": 2.0
+			"x": 13,
+			"y": 2
 		},
 		"group": "environment",
 		"layers": [
@@ -10351,8 +10399,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": 3.0
+			"x": 13,
+			"y": 3
 		},
 		"group": "environment",
 		"layers": [
@@ -10368,8 +10416,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": 4.0
+			"x": 13,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -10385,8 +10433,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": 5.0
+			"x": 13,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -10402,8 +10450,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": 6.0
+			"x": 13,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -10419,8 +10467,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": 7.0
+			"x": 13,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -10436,8 +10484,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": 8.0
+			"x": 13,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -10453,8 +10501,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": -8.0
+			"x": 14,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -10470,8 +10518,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": -7.0
+			"x": 14,
+			"y": -7
 		},
 		"group": "environment",
 		"layers": [
@@ -10487,8 +10535,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": -6.0
+			"x": 14,
+			"y": -6
 		},
 		"group": "environment",
 		"layers": [
@@ -10504,8 +10552,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": -5.0
+			"x": 14,
+			"y": -5
 		},
 		"group": "environment",
 		"layers": [
@@ -10521,8 +10569,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": -4.0
+			"x": 14,
+			"y": -4
 		},
 		"group": "environment",
 		"layers": [
@@ -10538,8 +10586,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": -3.0
+			"x": 14,
+			"y": -3
 		},
 		"group": "environment",
 		"layers": [
@@ -10555,8 +10603,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": -2.0
+			"x": 14,
+			"y": -2
 		},
 		"group": "environment",
 		"layers": [
@@ -10572,8 +10620,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": -1.0
+			"x": 14,
+			"y": -1
 		},
 		"group": "environment",
 		"layers": [
@@ -10589,8 +10637,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": 0.0
+			"x": 14,
+			"y": 0
 		},
 		"group": "environment",
 		"layers": [
@@ -10606,8 +10654,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": 1.0
+			"x": 14,
+			"y": 1
 		},
 		"group": "environment",
 		"layers": [
@@ -10623,8 +10671,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": 2.0
+			"x": 14,
+			"y": 2
 		},
 		"group": "environment",
 		"layers": [
@@ -10640,8 +10688,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": 3.0
+			"x": 14,
+			"y": 3
 		},
 		"group": "environment",
 		"layers": [
@@ -10657,8 +10705,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": 4.0
+			"x": 14,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -10674,8 +10722,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": 5.0
+			"x": 14,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -10691,8 +10739,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": 6.0
+			"x": 14,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -10708,8 +10756,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": 7.0
+			"x": 14,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -10725,8 +10773,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": 8.0
+			"x": 14,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -10742,8 +10790,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": -9.0
+			"x": -16,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -10759,8 +10807,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": -8.0
+			"x": -16,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -10776,8 +10824,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": -7.0
+			"x": -16,
+			"y": -7
 		},
 		"group": "environment",
 		"layers": [
@@ -10793,8 +10841,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": -6.0
+			"x": -16,
+			"y": -6
 		},
 		"group": "environment",
 		"layers": [
@@ -10810,8 +10858,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": -5.0
+			"x": -16,
+			"y": -5
 		},
 		"group": "environment",
 		"layers": [
@@ -10827,8 +10875,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": -4.0
+			"x": -16,
+			"y": -4
 		},
 		"group": "environment",
 		"layers": [
@@ -10844,8 +10892,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": -3.0
+			"x": -16,
+			"y": -3
 		},
 		"group": "environment",
 		"layers": [
@@ -10861,8 +10909,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": -2.0
+			"x": -16,
+			"y": -2
 		},
 		"group": "environment",
 		"layers": [
@@ -10878,8 +10926,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": -1.0
+			"x": -16,
+			"y": -1
 		},
 		"group": "environment",
 		"layers": [
@@ -10895,8 +10943,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": 0.0
+			"x": -16,
+			"y": 0
 		},
 		"group": "environment",
 		"layers": [
@@ -10912,8 +10960,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": 1.0
+			"x": -16,
+			"y": 1
 		},
 		"group": "environment",
 		"layers": [
@@ -10929,8 +10977,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": 2.0
+			"x": -16,
+			"y": 2
 		},
 		"group": "environment",
 		"layers": [
@@ -10946,8 +10994,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": 3.0
+			"x": -16,
+			"y": 3
 		},
 		"group": "environment",
 		"layers": [
@@ -10963,8 +11011,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": 4.0
+			"x": -16,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -10980,8 +11028,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": 5.0
+			"x": -16,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -10997,8 +11045,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": 6.0
+			"x": -16,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -11014,8 +11062,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": 7.0
+			"x": -16,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -11031,8 +11079,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": 8.0
+			"x": -16,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -11048,8 +11096,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": 9.0
+			"x": -16,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -11065,8 +11113,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": -9.0
+			"x": -15,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11082,8 +11130,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": -9.0
+			"x": -14,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11099,8 +11147,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": -9.0
+			"x": -13,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11116,8 +11164,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": -9.0
+			"x": -12,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11133,8 +11181,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": -9.0
+			"x": -11,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11150,8 +11198,8 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": -9.0
+			"x": -10,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11167,8 +11215,8 @@
 	},
 	{
 		"coords": {
-			"x": -9.0,
-			"y": -9.0
+			"x": -9,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11184,8 +11232,8 @@
 	},
 	{
 		"coords": {
-			"x": -8.0,
-			"y": -9.0
+			"x": -8,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11201,8 +11249,8 @@
 	},
 	{
 		"coords": {
-			"x": -7.0,
-			"y": -9.0
+			"x": -7,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11218,8 +11266,8 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": -9.0
+			"x": -6,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11235,8 +11283,8 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": -9.0
+			"x": -5,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11252,8 +11300,8 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": -9.0
+			"x": -4,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11269,8 +11317,8 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": -9.0
+			"x": -3,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11286,8 +11334,8 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": -9.0
+			"x": -2,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11303,8 +11351,8 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": -9.0
+			"x": -1,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11320,8 +11368,8 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": -9.0
+			"x": 0,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11337,8 +11385,8 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": -9.0
+			"x": 1,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11354,8 +11402,8 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": -9.0
+			"x": 2,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11371,8 +11419,8 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": -9.0
+			"x": 3,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11388,8 +11436,8 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": -9.0
+			"x": 4,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11405,8 +11453,8 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": -9.0
+			"x": 5,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11422,8 +11470,8 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": -9.0
+			"x": 6,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11439,8 +11487,8 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": -9.0
+			"x": 7,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11456,8 +11504,8 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": -9.0
+			"x": 8,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11473,8 +11521,8 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": -9.0
+			"x": 9,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11490,8 +11538,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": -9.0
+			"x": 10,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11507,8 +11555,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": -9.0
+			"x": 11,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11524,8 +11572,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": -9.0
+			"x": 12,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11541,8 +11589,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": -9.0
+			"x": 13,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11558,8 +11606,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": -9.0
+			"x": 14,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11575,8 +11623,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": -9.0
+			"x": 15,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -11592,8 +11640,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": -8.0
+			"x": 15,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -11609,8 +11657,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": -7.0
+			"x": 15,
+			"y": -7
 		},
 		"group": "environment",
 		"layers": [
@@ -11626,8 +11674,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": -6.0
+			"x": 15,
+			"y": -6
 		},
 		"group": "environment",
 		"layers": [
@@ -11643,8 +11691,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": -5.0
+			"x": 15,
+			"y": -5
 		},
 		"group": "environment",
 		"layers": [
@@ -11660,8 +11708,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": -4.0
+			"x": 15,
+			"y": -4
 		},
 		"group": "environment",
 		"layers": [
@@ -11677,8 +11725,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": -3.0
+			"x": 15,
+			"y": -3
 		},
 		"group": "environment",
 		"layers": [
@@ -11694,8 +11742,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": -2.0
+			"x": 15,
+			"y": -2
 		},
 		"group": "environment",
 		"layers": [
@@ -11711,8 +11759,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": -1.0
+			"x": 15,
+			"y": -1
 		},
 		"group": "environment",
 		"layers": [
@@ -11728,8 +11776,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": 0.0
+			"x": 15,
+			"y": 0
 		},
 		"group": "environment",
 		"layers": [
@@ -11745,8 +11793,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": 1.0
+			"x": 15,
+			"y": 1
 		},
 		"group": "environment",
 		"layers": [
@@ -11762,8 +11810,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": 2.0
+			"x": 15,
+			"y": 2
 		},
 		"group": "environment",
 		"layers": [
@@ -11779,8 +11827,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": 3.0
+			"x": 15,
+			"y": 3
 		},
 		"group": "environment",
 		"layers": [
@@ -11796,8 +11844,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": 4.0
+			"x": 15,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -11813,8 +11861,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": 5.0
+			"x": 15,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -11830,8 +11878,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": 6.0
+			"x": 15,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -11847,8 +11895,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": 7.0
+			"x": 15,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -11864,8 +11912,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": 8.0
+			"x": 15,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -11881,8 +11929,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": 9.0
+			"x": 15,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -11898,8 +11946,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": 9.0
+			"x": -15,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -11915,8 +11963,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": 9.0
+			"x": -14,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -11932,8 +11980,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": 9.0
+			"x": -13,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -11949,8 +11997,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": 9.0
+			"x": -12,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -11966,8 +12014,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": 9.0
+			"x": -11,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -11983,8 +12031,8 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": 9.0
+			"x": -10,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12000,8 +12048,8 @@
 	},
 	{
 		"coords": {
-			"x": -9.0,
-			"y": 9.0
+			"x": -9,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12017,8 +12065,8 @@
 	},
 	{
 		"coords": {
-			"x": -8.0,
-			"y": 9.0
+			"x": -8,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12034,8 +12082,8 @@
 	},
 	{
 		"coords": {
-			"x": -7.0,
-			"y": 9.0
+			"x": -7,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12051,8 +12099,8 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": 9.0
+			"x": -6,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12068,8 +12116,8 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": 9.0
+			"x": -5,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12085,8 +12133,8 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": 9.0
+			"x": -4,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12102,8 +12150,8 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": 9.0
+			"x": -3,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12119,8 +12167,8 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": 9.0
+			"x": -2,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12136,8 +12184,8 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": 9.0
+			"x": -1,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12153,8 +12201,8 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": 9.0
+			"x": 0,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12170,8 +12218,8 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": 9.0
+			"x": 1,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12187,8 +12235,8 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": 9.0
+			"x": 2,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12204,8 +12252,8 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": 9.0
+			"x": 3,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12221,8 +12269,8 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": 9.0
+			"x": 7,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12238,8 +12286,8 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": 9.0
+			"x": 8,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12255,8 +12303,8 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": 9.0
+			"x": 9,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12272,8 +12320,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": 9.0
+			"x": 10,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12289,8 +12337,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": 9.0
+			"x": 11,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12306,8 +12354,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": 9.0
+			"x": 12,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12323,8 +12371,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": 9.0
+			"x": 13,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12340,8 +12388,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": 9.0
+			"x": 14,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12357,8 +12405,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": 10.0
+			"x": -17,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12374,8 +12422,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": 10.0
+			"x": -16,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12391,8 +12439,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": 10.0
+			"x": -15,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12408,8 +12456,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": 10.0
+			"x": -14,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12425,8 +12473,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": 10.0
+			"x": -13,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12442,8 +12490,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": 10.0
+			"x": -12,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12459,8 +12507,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": 10.0
+			"x": -11,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12476,8 +12524,8 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": 10.0
+			"x": -10,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12493,8 +12541,8 @@
 	},
 	{
 		"coords": {
-			"x": -9.0,
-			"y": 10.0
+			"x": -9,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12510,8 +12558,8 @@
 	},
 	{
 		"coords": {
-			"x": -8.0,
-			"y": 10.0
+			"x": -8,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12527,8 +12575,8 @@
 	},
 	{
 		"coords": {
-			"x": -7.0,
-			"y": 10.0
+			"x": -7,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12544,8 +12592,8 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": 10.0
+			"x": -6,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12561,8 +12609,8 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": 10.0
+			"x": -5,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12578,8 +12626,8 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": 10.0
+			"x": -4,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12595,8 +12643,8 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": 10.0
+			"x": -3,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12612,8 +12660,8 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": 10.0
+			"x": -2,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12629,8 +12677,8 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": 10.0
+			"x": -1,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12646,8 +12694,8 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": 10.0
+			"x": 0,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12663,8 +12711,8 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": 10.0
+			"x": 1,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12680,8 +12728,8 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": 10.0
+			"x": 2,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12697,8 +12745,8 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": 10.0
+			"x": 5,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12714,8 +12762,8 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": 10.0
+			"x": 6,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12731,8 +12779,8 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": 10.0
+			"x": 7,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12748,8 +12796,8 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": 10.0
+			"x": 8,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12765,8 +12813,8 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": 10.0
+			"x": 9,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12782,8 +12830,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": 10.0
+			"x": 10,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12799,8 +12847,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": 10.0
+			"x": 11,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12816,8 +12864,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": 10.0
+			"x": 12,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12833,8 +12881,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": 10.0
+			"x": 13,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12850,8 +12898,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": 10.0
+			"x": 14,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12867,8 +12915,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": 10.0
+			"x": 15,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12884,8 +12932,8 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": 9.0
+			"x": 6,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12901,8 +12949,8 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": 9.0
+			"x": 5,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12918,8 +12966,8 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": 9.0
+			"x": 4,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -12935,8 +12983,8 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": 10.0
+			"x": 4,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12952,8 +13000,8 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": 10.0
+			"x": 3,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12969,8 +13017,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": 10.0
+			"x": 16,
+			"y": 10
 		},
 		"group": "environment",
 		"layers": [
@@ -12986,25 +13034,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": 9.0
-		},
-		"group": "environment",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 8,
-					"atlas_y": 17,
-					"source_id": 2
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": -17.0,
-			"y": 8.0
+			"x": -17,
+			"y": 9
 		},
 		"group": "environment",
 		"layers": [
@@ -13020,8 +13051,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": 7.0
+			"x": -17,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -13037,8 +13068,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": 6.0
+			"x": -17,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -13054,8 +13085,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": 5.0
+			"x": -17,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -13071,8 +13102,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": 4.0
+			"x": -17,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -13088,8 +13119,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": 3.0
+			"x": -17,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -13105,8 +13136,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": 2.0
+			"x": -17,
+			"y": 3
 		},
 		"group": "environment",
 		"layers": [
@@ -13122,8 +13153,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": -9.0
+			"x": -17,
+			"y": 2
 		},
 		"group": "environment",
 		"layers": [
@@ -13139,8 +13170,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": -8.0
+			"x": -17,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -13156,8 +13187,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": -7.0
+			"x": -17,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -13173,8 +13204,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": -6.0
+			"x": -17,
+			"y": -7
 		},
 		"group": "environment",
 		"layers": [
@@ -13190,8 +13221,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": -5.0
+			"x": -17,
+			"y": -6
 		},
 		"group": "environment",
 		"layers": [
@@ -13207,8 +13238,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": -4.0
+			"x": -17,
+			"y": -5
 		},
 		"group": "environment",
 		"layers": [
@@ -13224,8 +13255,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": -3.0
+			"x": -17,
+			"y": -4
 		},
 		"group": "environment",
 		"layers": [
@@ -13241,8 +13272,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": -2.0
+			"x": -17,
+			"y": -3
 		},
 		"group": "environment",
 		"layers": [
@@ -13258,8 +13289,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": -1.0
+			"x": -17,
+			"y": -2
 		},
 		"group": "environment",
 		"layers": [
@@ -13275,8 +13306,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": 0.0
+			"x": -17,
+			"y": -1
 		},
 		"group": "environment",
 		"layers": [
@@ -13292,8 +13323,8 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": 1.0
+			"x": -17,
+			"y": 0
 		},
 		"group": "environment",
 		"layers": [
@@ -13309,8 +13340,25 @@
 	},
 	{
 		"coords": {
-			"x": -17.0,
-			"y": -10.0
+			"x": -17,
+			"y": 1
+		},
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 8,
+					"atlas_y": 17,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -17,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13326,8 +13374,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": -10.0
+			"x": 16,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13343,8 +13391,8 @@
 	},
 	{
 		"coords": {
-			"x": -16.0,
-			"y": -10.0
+			"x": -16,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13360,8 +13408,8 @@
 	},
 	{
 		"coords": {
-			"x": -15.0,
-			"y": -10.0
+			"x": -15,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13377,8 +13425,8 @@
 	},
 	{
 		"coords": {
-			"x": -14.0,
-			"y": -10.0
+			"x": -14,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13394,8 +13442,8 @@
 	},
 	{
 		"coords": {
-			"x": -13.0,
-			"y": -10.0
+			"x": -13,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13411,8 +13459,8 @@
 	},
 	{
 		"coords": {
-			"x": -12.0,
-			"y": -10.0
+			"x": -12,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13428,8 +13476,8 @@
 	},
 	{
 		"coords": {
-			"x": -11.0,
-			"y": -10.0
+			"x": -11,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13445,8 +13493,8 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": -10.0
+			"x": -10,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13462,8 +13510,8 @@
 	},
 	{
 		"coords": {
-			"x": -9.0,
-			"y": -10.0
+			"x": -9,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13479,8 +13527,8 @@
 	},
 	{
 		"coords": {
-			"x": -8.0,
-			"y": -10.0
+			"x": -8,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13496,8 +13544,8 @@
 	},
 	{
 		"coords": {
-			"x": -7.0,
-			"y": -10.0
+			"x": -7,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13513,8 +13561,8 @@
 	},
 	{
 		"coords": {
-			"x": -6.0,
-			"y": -10.0
+			"x": -6,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13530,8 +13578,8 @@
 	},
 	{
 		"coords": {
-			"x": -5.0,
-			"y": -10.0
+			"x": -5,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13547,8 +13595,8 @@
 	},
 	{
 		"coords": {
-			"x": -4.0,
-			"y": -10.0
+			"x": -4,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13564,8 +13612,8 @@
 	},
 	{
 		"coords": {
-			"x": -3.0,
-			"y": -10.0
+			"x": -3,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13581,8 +13629,8 @@
 	},
 	{
 		"coords": {
-			"x": -2.0,
-			"y": -10.0
+			"x": -2,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13598,8 +13646,8 @@
 	},
 	{
 		"coords": {
-			"x": -1.0,
-			"y": -10.0
+			"x": -1,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13615,8 +13663,8 @@
 	},
 	{
 		"coords": {
-			"x": 0.0,
-			"y": -10.0
+			"x": 0,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13632,8 +13680,8 @@
 	},
 	{
 		"coords": {
-			"x": 1.0,
-			"y": -10.0
+			"x": 1,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13649,8 +13697,8 @@
 	},
 	{
 		"coords": {
-			"x": 2.0,
-			"y": -10.0
+			"x": 2,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13666,8 +13714,8 @@
 	},
 	{
 		"coords": {
-			"x": 3.0,
-			"y": -10.0
+			"x": 3,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13683,8 +13731,8 @@
 	},
 	{
 		"coords": {
-			"x": 4.0,
-			"y": -10.0
+			"x": 4,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13700,8 +13748,8 @@
 	},
 	{
 		"coords": {
-			"x": 5.0,
-			"y": -10.0
+			"x": 5,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13717,8 +13765,8 @@
 	},
 	{
 		"coords": {
-			"x": 6.0,
-			"y": -10.0
+			"x": 6,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13734,8 +13782,8 @@
 	},
 	{
 		"coords": {
-			"x": 7.0,
-			"y": -10.0
+			"x": 7,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13751,8 +13799,8 @@
 	},
 	{
 		"coords": {
-			"x": 8.0,
-			"y": -10.0
+			"x": 8,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13768,8 +13816,8 @@
 	},
 	{
 		"coords": {
-			"x": 9.0,
-			"y": -10.0
+			"x": 9,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13785,8 +13833,8 @@
 	},
 	{
 		"coords": {
-			"x": 10.0,
-			"y": -10.0
+			"x": 10,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13802,8 +13850,8 @@
 	},
 	{
 		"coords": {
-			"x": 11.0,
-			"y": -10.0
+			"x": 11,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13819,8 +13867,8 @@
 	},
 	{
 		"coords": {
-			"x": 12.0,
-			"y": -10.0
+			"x": 12,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13836,8 +13884,8 @@
 	},
 	{
 		"coords": {
-			"x": 13.0,
-			"y": -10.0
+			"x": 13,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13853,8 +13901,8 @@
 	},
 	{
 		"coords": {
-			"x": 14.0,
-			"y": -10.0
+			"x": 14,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13870,8 +13918,8 @@
 	},
 	{
 		"coords": {
-			"x": 15.0,
-			"y": -10.0
+			"x": 15,
+			"y": -10
 		},
 		"group": "environment",
 		"layers": [
@@ -13887,25 +13935,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": -9.0
-		},
-		"group": "environment",
-		"layers": [
-			{
-				"layer_name": "background",
-				"tile": {
-					"atlas_x": 11,
-					"atlas_y": 18,
-					"source_id": 2
-				}
-			}
-		]
-	},
-	{
-		"coords": {
-			"x": 16.0,
-			"y": -8.0
+			"x": 16,
+			"y": -9
 		},
 		"group": "environment",
 		"layers": [
@@ -13921,8 +13952,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": -7.0
+			"x": 16,
+			"y": -8
 		},
 		"group": "environment",
 		"layers": [
@@ -13938,8 +13969,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": -6.0
+			"x": 16,
+			"y": -7
 		},
 		"group": "environment",
 		"layers": [
@@ -13955,8 +13986,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": -5.0
+			"x": 16,
+			"y": -6
 		},
 		"group": "environment",
 		"layers": [
@@ -13972,8 +14003,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": -4.0
+			"x": 16,
+			"y": -5
 		},
 		"group": "environment",
 		"layers": [
@@ -13989,8 +14020,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": -3.0
+			"x": 16,
+			"y": -4
 		},
 		"group": "environment",
 		"layers": [
@@ -14006,8 +14037,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": -2.0
+			"x": 16,
+			"y": -3
 		},
 		"group": "environment",
 		"layers": [
@@ -14023,8 +14054,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": -1.0
+			"x": 16,
+			"y": -2
 		},
 		"group": "environment",
 		"layers": [
@@ -14040,8 +14071,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": 0.0
+			"x": 16,
+			"y": -1
 		},
 		"group": "environment",
 		"layers": [
@@ -14057,8 +14088,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": 1.0
+			"x": 16,
+			"y": 0
 		},
 		"group": "environment",
 		"layers": [
@@ -14074,8 +14105,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": 2.0
+			"x": 16,
+			"y": 1
 		},
 		"group": "environment",
 		"layers": [
@@ -14091,8 +14122,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": 3.0
+			"x": 16,
+			"y": 2
 		},
 		"group": "environment",
 		"layers": [
@@ -14108,8 +14139,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": 4.0
+			"x": 16,
+			"y": 3
 		},
 		"group": "environment",
 		"layers": [
@@ -14125,8 +14156,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": 5.0
+			"x": 16,
+			"y": 4
 		},
 		"group": "environment",
 		"layers": [
@@ -14142,8 +14173,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": 6.0
+			"x": 16,
+			"y": 5
 		},
 		"group": "environment",
 		"layers": [
@@ -14159,8 +14190,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": 7.0
+			"x": 16,
+			"y": 6
 		},
 		"group": "environment",
 		"layers": [
@@ -14176,8 +14207,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": 8.0
+			"x": 16,
+			"y": 7
 		},
 		"group": "environment",
 		"layers": [
@@ -14193,8 +14224,8 @@
 	},
 	{
 		"coords": {
-			"x": 16.0,
-			"y": 9.0
+			"x": 16,
+			"y": 8
 		},
 		"group": "environment",
 		"layers": [
@@ -14210,10 +14241,27 @@
 	},
 	{
 		"coords": {
-			"x": -10.0,
-			"y": -4.0
+			"x": 16,
+			"y": 9
 		},
-		"group": "soil",
+		"group": "environment",
+		"layers": [
+			{
+				"layer_name": "background",
+				"tile": {
+					"atlas_x": 11,
+					"atlas_y": 18,
+					"source_id": 2
+				}
+			}
+		]
+	},
+	{
+		"coords": {
+			"x": -10,
+			"y": -4
+		},
+		"group": "environment",
 		"layers": [
 			{
 				"layer_name": "background",

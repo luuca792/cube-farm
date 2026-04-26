@@ -1,5 +1,5 @@
-@tool
-extends EditorScript
+extends Node
+class_name TileMapExport
 
 const SCENE_PATH = "res://scenes/main.tscn"
 const TILE_MAP_NAME_GROUP: Dictionary = {
@@ -9,16 +9,28 @@ const TILE_MAP_NAME_GROUP: Dictionary = {
 	"FarmMapCrops": MapLayerConstant.CROP
 }
 
+@onready var farm_map_bg: TileMapLayer = $"../FarmMapBG"
+@onready var farm_map_fg: TileMapLayer = $"../FarmMapFG"
+@onready var farm_map_state: TileMapLayer = $"../FarmMapState"
+@onready var farm_map_crops: TileMapLayer = $"../FarmMapCrops"
+
 var tile_map_data := TileMapData.new()
 var tile_group_calculator := TileGroupCalculator.new()
+var tile_map_layers : Array[TileMapLayer]
 
+## Enable this function to export tile map next time start up
+#func _ready() -> void:
+	#_build_map_data_from_scene()
+	#tile_map_data = tile_group_calculator.build_tile_group(tile_map_data)
+	#_export_to_file()
+	
 func _build_map_data_from_scene() -> void:
-	var scene = load(SCENE_PATH).instantiate()
-	for child in scene.get_children():
-		var layer := child as TileMapLayer
-		if layer == null:
-			continue
-			
+	tile_map_layers.append(farm_map_bg)
+	tile_map_layers.append(farm_map_fg)
+	tile_map_layers.append(farm_map_state)
+	tile_map_layers.append(farm_map_crops)
+	
+	for layer in tile_map_layers:
 		for cell in layer.get_used_cells():
 			var slot := tile_map_data.get_slot(cell.x, cell.y)
 			if slot == null:
@@ -37,8 +49,6 @@ func _build_map_data_from_scene() -> void:
 			layer_data.tile = tile_atlas_data
 			
 			slot.layers.append(layer_data)
-			
-	scene.free()
 
 func _export_to_file() -> void:
 	var result := []
@@ -48,8 +58,3 @@ func _export_to_file() -> void:
 	var file := FileAccess.open("res://resources/tilemap/default-tile-map.json", FileAccess.WRITE)
 	file.store_string(JSON.stringify(result, "\t"))
 	file.close()
-	
-func _run() -> void:
-	_build_map_data_from_scene()
-	tile_map_data = tile_group_calculator.build_tile_group(tile_map_data)
-	_export_to_file()

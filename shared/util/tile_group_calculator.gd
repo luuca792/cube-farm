@@ -20,7 +20,8 @@ func build_tile_group(tile_map_data: TileMapData) -> TileMapData:
 			tile.group = TileGroupConstant.WATERED_SOIL
 		
 		if tile.get_layer(MapLayerConstant.FOREGROUND) != null and StringUtils.isBlank(tile.group):
-			tile.group = TileGroupConstant.SOIL
+			if ForegroundTileManager.is_soil():
+				tile.group = TileGroupConstant.SOIL
 		
 		if tile.get_layer(MapLayerConstant.BACKGROUND) != null and StringUtils.isBlank(tile.group):
 			tile.group = TileGroupConstant.ENVIRONMENT
