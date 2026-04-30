@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://kx0ktixyxqne"]
+
+[node name="InteractBubble" type="PanelContainer" unique_id=2070645980]
+custom_minimum_size = Vector2(20, 20)
+
+[node name="GridContainer" type="GridContainer" parent="." unique_id=825449266]
+layout_mode = 2
+theme_override_constants/h_separation = 0
+theme_override_constants/v_separation = 0
+columns = 2

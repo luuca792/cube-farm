@@ -1,5 +1,4 @@
-extends Node
-class_name TileGroupConstant
+class_name TileGroupConst
 
 # Each tile group allow a different set of interactable tems
 

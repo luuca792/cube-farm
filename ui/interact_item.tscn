@@ -1,0 +1,54 @@
+[gd_scene format=3 uid="uid://dpa28ycqwws6u"]
+
+[ext_resource type="Script" uid="uid://ch8gdolwjt83v" path="res://ui/interact_item.gd" id="1_04ys7"]
+[ext_resource type="Texture2D" uid="uid://bp3v3v384xqdw" path="res://assets/icons/items/crops.png" id="1_lwa4u"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_04ys7"]
+atlas = ExtResource("1_lwa4u")
+region = Rect2(0, 96, 16, 16)
+
+[node name="MarginContainer" type="MarginContainer" unique_id=587431218]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = -460.0
+offset_bottom = -250.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 0
+theme_override_constants/margin_bottom = 0
+script = ExtResource("1_04ys7")
+
+[node name="Control" type="Control" parent="." unique_id=1453264761]
+custom_minimum_size = Vector2(20, 20)
+layout_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="Control" unique_id=634205522]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 1
+theme_override_constants/margin_top = 1
+theme_override_constants/margin_right = 1
+theme_override_constants/margin_bottom = 1
+
+[node name="TextureRect" type="TextureRect" parent="Control/MarginContainer" unique_id=1774557973]
+layout_mode = 2
+texture = SubResource("AtlasTexture_04ys7")
+
+[node name="Label" type="Label" parent="Control" unique_id=1314107217]
+texture_filter = 1
+texture_repeat = 1
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_font_sizes/font_size = 5
+text = "10"
+horizontal_alignment = 2
+vertical_alignment = 2

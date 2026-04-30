@@ -3,10 +3,10 @@ class_name TileMapExport
 
 const SCENE_PATH = "res://scenes/main.tscn"
 const TILE_MAP_NAME_GROUP: Dictionary = {
-	"FarmMapBG": MapLayerConstant.BACKGROUND,
-	"FarmMapFG": MapLayerConstant.FOREGROUND,
-	"FarmMapState": MapLayerConstant.STATE,
-	"FarmMapCrops": MapLayerConstant.CROP
+	"FarmMapBG": MapLayerConst.BACKGROUND,
+	"FarmMapFG": MapLayerConst.FOREGROUND,
+	"FarmMapState": MapLayerConst.STATE,
+	"FarmMapCrops": MapLayerConst.CROP
 }
 
 @onready var farm_map_bg: TileMapLayer = $"../FarmMapBG"
@@ -19,10 +19,10 @@ var tile_group_calculator := TileGroupCalculator.new()
 var tile_map_layers : Array[TileMapLayer]
 
 ## Enable this function to export tile map next time start up
-#func _ready() -> void:
-	#_build_map_data_from_scene()
-	#tile_map_data = tile_group_calculator.build_tile_group(tile_map_data)
-	#_export_to_file()
+func _ready() -> void:
+	_build_map_data_from_scene()
+	tile_map_data = tile_group_calculator.build_tile_group(tile_map_data)
+	_export_to_file()
 	
 func _build_map_data_from_scene() -> void:
 	tile_map_layers.append(farm_map_bg)

@@ -1,5 +1,4 @@
-extends Node
-class_name MapLayerConstant
+class_name MapLayerConst
 
 const CROP = "crop"
 const STATE = "state"
