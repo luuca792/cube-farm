@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="ItemData" format=3 uid="uid://cgfkrmtwl3uxi"]
+
+[ext_resource type="Texture2D" uid="uid://bp3v3v384xqdw" path="res://assets/icons/items/crops.png" id="1_aypv8"]
+[ext_resource type="Script" uid="uid://b3u2eg6r7asx5" path="res://resources/items/item_data.gd" id="2_bevxb"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_xtq87"]
+atlas = ExtResource("1_aypv8")
+region = Rect2(176, 304, 16, 16)
+
+[resource]
+script = ExtResource("2_bevxb")
+id = 1
+item_name = "wheat"
+icon = SubResource("AtlasTexture_xtq87")
+metadata/_custom_type_script = "uid://b3u2eg6r7asx5"

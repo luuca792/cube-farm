@@ -3,13 +3,13 @@
 [ext_resource type="Script" uid="uid://b3u2eg6r7asx5" path="res://resources/items/item_data.gd" id="1_bm4ed"]
 [ext_resource type="Texture2D" uid="uid://b18vcwhwhgka3" path="res://assets/icons/items/tools.png" id="1_tkxvt"]
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_t42jo"]
+[sub_resource type="AtlasTexture" id="AtlasTexture_tkxvt"]
 atlas = ExtResource("1_tkxvt")
 region = Rect2(0, 0, 16, 16)
 
 [resource]
 script = ExtResource("1_bm4ed")
-id = 2
+id = 3
 item_name = "water_can"
-icon = SubResource("AtlasTexture_t42jo")
+icon = SubResource("AtlasTexture_tkxvt")
 metadata/_custom_type_script = "uid://b3u2eg6r7asx5"
