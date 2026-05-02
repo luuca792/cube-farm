@@ -4,5 +4,5 @@ class_name ItemNameConst
 const WATER_CAN = "water_can"
 
 # Seed
-const CARROT_SEED = "carrot_seed"
-const WHEAT_SEED = "wheat_seed"
+const CARROT_SEED = "carrot"
+const WHEAT_SEED = "wheat"

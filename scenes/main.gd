@@ -4,6 +4,6 @@ extends Node
 
 func _ready() -> void:
 	# Give player some items from the start to test, not real logic in game
-	InventoryManager.add_item(ItemRegistry.get_item(0), 10)
-	InventoryManager.add_item(ItemRegistry.get_item(1), 10)
-	InventoryManager.add_item(ItemRegistry.get_item(2), 1)
+	InventoryManager.add_item(ItemRegistry.get_item(ItemNameConst.WHEAT_SEED), 10)
+	InventoryManager.add_item(ItemRegistry.get_item(ItemNameConst.CARROT_SEED), 10)
+	InventoryManager.add_item(ItemRegistry.get_item(ItemNameConst.WATER_CAN), 1)

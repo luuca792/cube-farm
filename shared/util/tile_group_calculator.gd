@@ -11,7 +11,7 @@ func build_tile_group(tile_map_data: TileMapData) -> TileMapData:
 		
 		if tile.get_layer(MapLayerConst.CROP) != null:
 			var tile_data := tile.get_layer(MapLayerConst.CROP).tile
-			var atlas_pos := Vector2i(tile_data.atlas_x, tile_data.atlas_y)
+			var atlas_pos := tile_data.atlas_coords
 			if CropsTileManager.is_grown_crop(tile_data.source_id, atlas_pos):
 				tile.group = TileGroupConst.GROWN_CROP
 			if CropsTileManager.is_growing_crop(tile_data.source_id, atlas_pos):
@@ -19,13 +19,13 @@ func build_tile_group(tile_map_data: TileMapData) -> TileMapData:
 		
 		if tile.get_layer(MapLayerConst.STATE) != null and StringUtils.isBlank(tile.group):
 			var tile_data := tile.get_layer(MapLayerConst.STATE).tile
-			var atlas_pos := Vector2i(tile_data.atlas_x, tile_data.atlas_y)
+			var atlas_pos := tile_data.atlas_coords
 			if StateTileManager.is_water(atlas_pos):
 				tile.group = TileGroupConst.WATERED_SOIL
 		
 		if tile.get_layer(MapLayerConst.FOREGROUND) != null and StringUtils.isBlank(tile.group):
 			var tile_data := tile.get_layer(MapLayerConst.FOREGROUND).tile
-			var atlas_pos := Vector2i(tile_data.atlas_x, tile_data.atlas_y)
+			var atlas_pos := tile_data.atlas_coords
 			if ForegroundTileManager.is_soil(atlas_pos):
 				tile.group = TileGroupConst.SOIL
 		

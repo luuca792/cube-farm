@@ -19,10 +19,10 @@ var tile_group_calculator := TileGroupCalculator.new()
 var tile_map_layers : Array[TileMapLayer]
 
 ## Enable this function to export tile map next time start up
-func _ready() -> void:
-	_build_map_data_from_scene()
-	tile_map_data = tile_group_calculator.build_tile_group(tile_map_data)
-	_export_to_file()
+#func _ready() -> void:
+	#_build_map_data_from_scene()
+	#tile_map_data = tile_group_calculator.build_tile_group(tile_map_data)
+	#_export_to_file()
 	
 func _build_map_data_from_scene() -> void:
 	tile_map_layers.append(farm_map_bg)
@@ -42,10 +42,7 @@ func _build_map_data_from_scene() -> void:
 			var layer_data := TileLayerData.new()
 			layer_data.layer_name = TILE_MAP_NAME_GROUP[layer.name]
 			
-			var tile_atlas_data := TileAtlasData.new()
-			tile_atlas_data.source_id = layer.get_cell_source_id(cell)
-			tile_atlas_data.atlas_x = layer.get_cell_atlas_coords(cell).x
-			tile_atlas_data.atlas_y = layer.get_cell_atlas_coords(cell).y
+			var tile_atlas_data := TileAtlasData.new(layer.get_cell_source_id(cell), layer.get_cell_atlas_coords(cell))
 			layer_data.tile = tile_atlas_data
 			
 			slot.layers.append(layer_data)

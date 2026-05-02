@@ -15,11 +15,11 @@ func get_item_can_apply_on_tile_group(group: String) -> Array[ItemData]:
 		TileGroupConst.ENVIRONMENT:
 			return []
 		TileGroupConst.SOIL:
-			return TileLogicDefinition.item_on_soil
+			return ItemOnGroupDefinition.item_on_soil
 		TileGroupConst.WATERED_SOIL:
-			return TileLogicDefinition.item_on_watered_soil
+			return ItemOnGroupDefinition.item_on_watered_soil
 		TileGroupConst.GROWING_CROP:
-			return TileLogicDefinition.item_on_growing_crop
+			return ItemOnGroupDefinition.item_on_growing_crop
 		TileGroupConst.GROWN_CROP:
-			return TileLogicDefinition.item_on_grown_crop
+			return ItemOnGroupDefinition.item_on_grown_crop
 	return []

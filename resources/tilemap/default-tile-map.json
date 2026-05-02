@@ -6214,7 +6214,7 @@
 			"x": 14,
 			"y": 12
 		},
-		"group": "soil",
+		"group": "watered_soil",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6229,6 +6229,14 @@
 				"tile": {
 					"atlas_x": 9,
 					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
 					"source_id": 1
 				}
 			}
@@ -6691,7 +6699,7 @@
 			"x": 15,
 			"y": 12
 		},
-		"group": "soil",
+		"group": "watered_soil",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -6706,6 +6714,14 @@
 				"tile": {
 					"atlas_x": 9,
 					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
 					"source_id": 1
 				}
 			}
@@ -7168,7 +7184,7 @@
 			"x": 16,
 			"y": 12
 		},
-		"group": "soil",
+		"group": "watered_soil",
 		"layers": [
 			{
 				"layer_name": "background",
@@ -7183,6 +7199,14 @@
 				"tile": {
 					"atlas_x": 9,
 					"atlas_y": 2,
+					"source_id": 1
+				}
+			},
+			{
+				"layer_name": "state",
+				"tile": {
+					"atlas_x": 12,
+					"atlas_y": 8,
 					"source_id": 1
 				}
 			}

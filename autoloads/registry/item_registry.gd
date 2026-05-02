@@ -1,5 +1,6 @@
 extends Node
 
+#Map <String item_name, ItemData item>
 var items: Dictionary = {}
 
 func _ready() -> void:
@@ -11,12 +12,10 @@ func _ready() -> void:
 				_register(item)
 
 func _register(item: ItemData) -> void:
-	items[item.id] = item
+	items[item.item_name] = item
 
-func get_item(id: int) -> ItemData:
-	if items.has(id):
-		return items[id]
-	return null
+func get_item(item_name: String) -> ItemData:
+	return items[item_name]
 	
 func get_item_by_name(item_name: String) -> ItemData:
 	for i in items.size():
@@ -26,7 +25,8 @@ func get_item_by_name(item_name: String) -> ItemData:
 	
 func get_item_by_names(names: Array[String]) -> Array[ItemData]:
 	var item : Array[ItemData] = []
-	for i in items.size():
-		if names.has(items[i]["item_name"]):
-			item.append(items[i])
+	for item_name in names:
+		var matched_item = items.get(item_name)
+		if items.get(item_name) != null:
+			item.append(matched_item)
 	return item
